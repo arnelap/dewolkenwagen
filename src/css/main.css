@@ -4,7 +4,7 @@
 /* Uncomment out the line below to help debug layout issues */
 /*@import './imports/_debug';*/
 
-html, body { margin: 0; padding: 0; font-family: "Roboto",sans-serif; color: #4b01bb; text-rendering: optimizeLegibility; background-color: #4905ba; }
+html, body { margin: 0; padding: 0; font-family: "Roboto",sans-serif; color: #4b01bb; text-rendering: optimizeLegibility; background-color: #fff; }
 header.main { background: #fff url("/img/top-bg-2.gif") no-repeat 100% 0; }
 header nav { height: 45px; }
 .content { width: 100%; background-color: #fff; }
@@ -21,8 +21,7 @@ nav ul li a { display: block; width: 100%; color: #fff; padding: 0 15px; line-he
 
 article { flex: 1 0 auto; }
 aside#sidebar { width: 25%; padding-left: 1.8375em}
-#sidebar h2 { margin-top: 0; }
-footer.main { color: #fff; background: #4905ba url("/img/bottom-bg.gif") no-repeat 0 0; padding-top: 150px; background-size: contain; clear: both; }
+footer.main { color: #fff; background: #4905ba url("/img/bottom-bg.gif") no-repeat 0 0; padding-top: 150px; background-size: contain; clear: both; min-height: 115px; }
 footer.main ul { list-style: none; padding: 0; }
 footer.main ul li { padding-right: 10px; display: inline-block; }
 footer.main a { color: #fff; text-decoration: none; margin-bottom: 1.25em; display: inline-block; }
@@ -61,7 +60,7 @@ h1, h2, h3, h4, h5, h6 { font-weight: 900; }
 	display: none;
 	z-index: 99;
 }
-.dropdown li { width: 250px; }
+.dropdown li { width: 200px; }
 .has-dropdown > a {
 	padding-right: 35px !important;
 }
@@ -74,8 +73,28 @@ h1, h2, h3, h4, h5, h6 { font-weight: 900; }
   height: 545px; /* height of carousel */
   margin-right: 10px;
 }
-.carousel-cell img { width: 100%; }
+.carousel-cell img { min-height: 100%; }
 
 @media screen and (min-width: 760px) {
 .show-for-small {display: none;}
+}
+
+.flickity-page-dots {
+  bottom: 0;
+  background: transparent url(/img/flex-frame.png) no-repeat 0 100%;
+    background-size: auto;
+background-size: contain;
+height: 80px;
+}
+/* white circles */
+.flickity-page-dots .dot {
+  width: 15px;
+  height: 15px;
+  opacity: 1;
+  background: #fff;
+  border: 2px solid white;
+}
+/* fill-in selected dot */
+.flickity-page-dots .dot.is-selected {
+  background: #4b01bb;
 }

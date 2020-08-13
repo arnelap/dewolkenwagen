@@ -1,7 +1,9 @@
-<div class="main-carousel" data-flickity='{ "cellAlign": "left", "contain": true, "autoPlay": 6000 }'>
+<div class="row">
+  <div class="main-carousel" data-flickity='{ "cellAlign": "left", "contain": true, "autoPlay": 6000 }'>
   {{ range .slides }}
   <div class="carousel-cell">
     <img src="{{.image}}">
   </div>
   {{ end }}
+</div>
 </div>

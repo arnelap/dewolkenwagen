@@ -5,15 +5,9 @@
 
     {{ block "header" . }}{{ partial "nav" . }}{{end}}
 
-<div class="content">
-  <div class="row flex">
-    <main class="content">
-    {{ block "main" . }}{{ end }}
-</main>
-    {{ partial "aside" . }}
 
-  </div>
-</div>
+    {{ block "main" . }}{{ end }}
+
     {{ block "footer" . }}{{ partial "footer" . }}{{end}}
 
     {{ $script := .Site.Data.webpack.main }}

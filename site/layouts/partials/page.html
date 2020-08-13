@@ -1,3 +1,8 @@
-<h1>{{ .Title }}</h1>
-<h2>{{ .Subtitle }}</h2>
-{{ .Body }}
+<div class="row flex">
+	<main class="content">
+		<h1>{{ .Params.Title }}</h1>
+		<h2>{{ .Params.Subtitle }}</h2>
+		{{ .Content }}
+	</main>
+	{{ partial "aside" . }}
+</div>
