@@ -10,5 +10,7 @@ subtitle: "De Wolkenwagen biedt flexibele opvang. U kunt kiezen voor
   uur. Tussen 8.00 uur en 9.00 uur kunt u uw kind brengen. "
 woensdag: ochtend
 donderdag: heledag
+zaterdag: hide
+zondag: hide
 ---
 * Bij de hele dagopvang eten we met de kinderen om 17.00 uur een warme maaltijd.
