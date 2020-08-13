@@ -24,7 +24,7 @@ collections: # A list of collections the CMS should be able to edit
         widget: "list"
         fields:
           - {label: Title, name: title, widget: string}
-          - {label: Subtitle, name: subtitle, widget: string}
+          - {label: Subtitle, name: subtitle, widget: text}
           - {label: "Body", name: "body", widget: "markdown"}
           - {label: "Agenda", name: agenda, widget: list, fields: [
               {label: "Omschrijving", name: "omschrijving", widget: "text"},
@@ -35,16 +35,17 @@ collections: # A list of collections the CMS should be able to edit
         name: "home"
         fields:
           - {label: Title, name: title, widget: string}
-          - {label: Subtitle, name: subtitle, widget: string}
+          - {label: Subtitle, name: subtitle, widget: text}
           - {label: "Body", name: "body", widget: "markdown"}     
           - {label: "Slides", name: slides, widget: list, fields: [
               {label: "Image", name: "image", widget: "image"}]}
+          - {label: Youtube, name: youtube, widget: string}
       - file: "site/content/foto-impressie/_index.md"
         label: "Foto Impressie"
         name: "foto-impressie"
         fields:
           - {label: Title, name: title, widget: string}
-          - {label: Subtitle, name: subtitle, widget: string}
+          - {label: Subtitle, name: subtitle, widget: text}
           - {label: "Body", name: "body", widget: "markdown"}
           - {label: "Slides", name: slides, widget: list, fields: [
               {label: "Image", name: "image", widget: "image"}]}
@@ -53,21 +54,21 @@ collections: # A list of collections the CMS should be able to edit
         name: "duurzame-pedagogiek"
         fields:
           - {label: Title, name: title, widget: string}
-          - {label: Subtitle, name: subtitle, widget: string}
+          - {label: Subtitle, name: subtitle, widget: text}
           - {label: "Body", name: "body", widget: "markdown"}
       - file: "site/content/kennismaken.md"
         label: "Kennismaken"
         name: "kennismaken"
         fields:
           - {label: Title, name: title, widget: string}
-          - {label: Subtitle, name: subtitle, widget: string}
+          - {label: Subtitle, name: subtitle, widget: text}
           - {label: "Body", name: "body", widget: "markdown"}
       - file: "site/content/ontstaansgeschiedenis.md"
         label: "Ontstaansgeschiedenis"
         name: "ontstaansgeschiedenis"
         fields:
           - {label: Title, name: title, widget: string}
-          - {label: Subtitle, name: subtitle, widget: string}
+          - {label: Subtitle, name: subtitle, widget: text}
           - {label: "Body", name: "body", widget: "markdown"}
       - file: "site/content/openingstijden.md"
         label: "Openingstijden"
@@ -111,28 +112,28 @@ collections: # A list of collections the CMS should be able to edit
         name: "peuterpedagogie"
         fields:
           - {label: Title, name: title, widget: string}
-          - {label: Subtitle, name: subtitle, widget: string}
+          - {label: Subtitle, name: subtitle, widget: text}
           - {label: "Body", name: "body", widget: "markdown"}
       - file: "site/content/peuterspeelgroep.md"
         label: "Peuterspeelgroep"
         name: "peuterspeelgroep"
         fields:
           - {label: Title, name: title, widget: string}
-          - {label: Subtitle, name: subtitle, widget: string}
+          - {label: Subtitle, name: subtitle, widget: text}
           - {label: "Body", name: "body", widget: "markdown"}
       - file: "site/content/reviews-van-ouders.md"
         label: "Reviews van Ouders"
         name: "reviews-van-ouders"
         fields:
           - {label: Title, name: title, widget: string}
-          - {label: Subtitle, name: subtitle, widget: string}
+          - {label: Subtitle, name: subtitle, widget: text}
           - {label: "Body", name: "body", widget: "markdown"}
       - file: "site/content/tarieven.md"
         label: "Tarieven"
         name: "tarieven"
         fields:
           - {label: Title, name: title, widget: string}
-          - {label: Subtitle, name: subtitle, widget: string}
+          - {label: Subtitle, name: subtitle, widget: text}
           - {label: "Body", name: "body", widget: "markdown"}
           - {label: "Tarieven", name: tarieven, widget: list, fields: [
               {label: "Opvangtijden", name: "opvangtijden", widget: "text"},
@@ -143,26 +144,26 @@ collections: # A list of collections the CMS should be able to edit
         name: "vacatures"
         fields:
           - {label: Title, name: title, widget: string}
-          - {label: Subtitle, name: subtitle, widget: string}
+          - {label: Subtitle, name: subtitle, widget: text}
           - {label: "Body", name: "body", widget: "markdown"}
       - file: "site/content/veiligheid-en-kwaliteit.md"
         label: "Veiligheid en Kwaliteit"
         name: "veiligheid-en-kwaliteit"
         fields:
           - {label: Title, name: title, widget: string}
-          - {label: Subtitle, name: subtitle, widget: string}
+          - {label: Subtitle, name: subtitle, widget: text}
           - {label: "Body", name: "body", widget: "markdown"}
       - file: "site/content/vve-subsidie.md"
         label: "VVE subsidie"
         name: "vve-subsidie"
         fields:
           - {label: Title, name: title, widget: string}
-          - {label: Subtitle, name: subtitle, widget: string}
+          - {label: Subtitle, name: subtitle, widget: text}
           - {label: "Body", name: "body", widget: "markdown"}
       - file: "site/content/contact/_index.md"
         label: "Contact Page"
         name: "contact"
         fields:
           - {label: Title, name: title, widget: string}
-          - {label: Subtitle, name: subtitle, widget: string}
+          - {label: Subtitle, name: subtitle, widget: text}
           - {label: "Body", name: "body", widget: "markdown"}
