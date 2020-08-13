@@ -18,6 +18,18 @@ collections: # A list of collections the CMS should be able to edit
   - name: "pages"
     label: "Pages"
     files:
+      - file: "site/content/agenda.md"
+        label: "Agenda"
+        name: "agenda"
+        widget: "list"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Subtitle, name: subtitle, widget: string}
+          - {label: "Body", name: "body", widget: "markdown"}
+          - {label: "Agenda", name: agenda, widget: list, fields: [
+              {label: "Omschrijving", name: "omschrijving", widget: "text"},
+              {label: "Datum", name: "datum", widget: "text"},
+              {label: "Afgelast", name: "afgelast", widget: "boolean"}]}
       - file: "site/content/_index.md"
         label: "Home"
         name: "home"
@@ -27,13 +39,6 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "Body", name: "body", widget: "markdown"}     
           - {label: "Slides", name: slides, widget: list, fields: [
               {label: "Image", name: "image", widget: "image"}]}
-      - file: "site/content/contact/_index.md"
-        label: "Contact Page"
-        name: "contact"
-        fields:
-          - {label: Title, name: title, widget: string}
-          - {label: Subtitle, name: subtitle, widget: string}
-          - {label: "Body", name: "body", widget: "markdown"}
       - file: "site/content/foto-impressie/_index.md"
         label: "Foto Impressie"
         name: "foto-impressie"
@@ -69,7 +74,37 @@ collections: # A list of collections the CMS should be able to edit
         name: "openingstijden"
         fields:
           - {label: Title, name: title, widget: string}
-          - {label: Subtitle, name: subtitle, widget: string}
+          - {label: Subtitle, name: subtitle, widget: text}
+          - {label: "Maandag", name: "maandag", widget: "select",  options: [
+              { label: "Ochtend", value: "ochtend" },
+              { label: "Dagopvang", value: "dagopvang" },
+              { label: "Hele dagopvang", value: "heledag" }]}
+          - {label: "Dinsdag", name: "dinsdag", widget: "select",  options: [
+              { label: "Ochtend", value: "ochtend" },
+              { label: "Dagopvang", value: "dagopvang" },
+              { label: "Hele dagopvang", value: "heledag" }]}
+          - {label: "Woensdag", name: "woensdag", widget: "select",  options: [
+              { label: "Ochtend", value: "ochtend" },
+              { label: "Dagopvang", value: "dagopvang" },
+              { label: "Hele dagopvang", value: "heledag" }]}
+          - {label: "Donderdag", name: "donderdag", widget: "select",  options: [
+              { label: "Ochtend", value: "ochtend" },
+              { label: "Dagopvang", value: "dagopvang" },
+              { label: "Hele dagopvang", value: "heledag" }]}
+          - {label: "Vrijdag", name: "vrijdag", widget: "select",  options: [
+              { label: "Ochtend", value: "ochtend" },
+              { label: "Dagopvang", value: "dagopvang" },
+              { label: "Hele dagopvang", value: "heledag" }]}
+          - {label: "Zaterdag", name: "zaterdag", widget: "select",  options: [
+              { label: "Ochtend", value: "ochtend" },
+              { label: "Dagopvang", value: "dagopvang" },
+              { label: "Hele dagopvang", value: "heledag" },
+              { label: "Niet weergeven", value: "hide" }]}
+          - {label: "Zondag", name: "zondag", widget: "select",  options: [
+              { label: "Ochtend", value: "ochtend" },
+              { label: "Dagopvang", value: "dagopvang" },
+              { label: "Hele dagopvang", value: "heledag" },
+              { label: "Niet weergeven", value: "hide" }]}
           - {label: "Body", name: "body", widget: "markdown"}
       - file: "site/content/peuterpedagogie.md"
         label: "Peuterpedagogie"
@@ -99,6 +134,10 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Title, name: title, widget: string}
           - {label: Subtitle, name: subtitle, widget: string}
           - {label: "Body", name: "body", widget: "markdown"}
+          - {label: "Tarieven", name: tarieven, widget: list, fields: [
+              {label: "Opvangtijden", name: "opvangtijden", widget: "text"},
+              {label: "Bruto maandbedragen", name: "maandbedragen", widget: "text"},
+              {label: "Inclusief", name: "inclusief", widget: "text"}]}
       - file: "site/content/vacatures.md"
         label: "Vacatures"
         name: "vacatures"
@@ -107,7 +146,7 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Subtitle, name: subtitle, widget: string}
           - {label: "Body", name: "body", widget: "markdown"}
       - file: "site/content/veiligheid-en-kwaliteit.md"
-        label: "V eiligheid en Kwaliteit"
+        label: "Veiligheid en Kwaliteit"
         name: "veiligheid-en-kwaliteit"
         fields:
           - {label: Title, name: title, widget: string}
@@ -116,6 +155,13 @@ collections: # A list of collections the CMS should be able to edit
       - file: "site/content/vve-subsidie.md"
         label: "VVE subsidie"
         name: "vve-subsidie"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Subtitle, name: subtitle, widget: string}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - file: "site/content/contact/_index.md"
+        label: "Contact Page"
+        name: "contact"
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Subtitle, name: subtitle, widget: string}
