@@ -18,7 +18,7 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "Body", name: "body", widget: "markdown"}
           - {label: "Agenda", name: agenda, widget: list, fields: [
               {label: "Omschrijving", name: "omschrijving", widget: "text"},
-              {label: "Datum", name: "datum", widget: "text"},
+              {label: "Datum", name: "datum", widget: "text", required: false},
               {label: "Afgelast", name: "afgelast", widget: "boolean", required: false}]}
       - file: "site/content/_index.md"
         label: "Home"
