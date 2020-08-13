@@ -1,15 +1,24 @@
 ---
-title: 'tech'
-date: 2018-11-14T19:02:50-07:00
+dinsdag: heledag
 draft: false
+maandag: heledag
+vrijdag: ochtend
+date: 2018-11-14T19:02:50-07:00
+title: Openingstijden
+subtitle: "De Wolkenwagen biedt flexibele opvang. U kunt kiezen voor
+  speelochtenden, dagopvang tot 15.30 uur en ook voor hele dag opvang, tot 18.00
+  uur. Tussen 8.00 uur en 9.00 uur kunt u uw kind brengen. "
+woensdag: ochtend
+donderdag: heledag
+zaterdag: hide
+zondag: hide
 ---
+* Bij de hele dagopvang eten we met de kinderen om 17.00 uur een warme maaltijd.
 
-# [Victor Hugo](https://github.com/netlify-templates/victor-hugo)
-
-## A Hugo boilerplate for creating truly epic websites
-
-<img src="https://d33wubrfki0l68.cloudfront.net/30790d6888bd8af863fb2b5c33a7f337cdbda243/4e867/images/hugo-logo-wide.svg" style="width: 40%" />
-
-This is a boilerplate for using [Hugo](https://gohugo.io/) as a static site generator and [Webpack](https://webpack.js.org/) as your asset pipeline. Victor Hugo setup to use [PostCSS](http://postcss.org/) and [Babel](https://babeljs.io/) for CSS and JavaScript compiling/transpiling. This project is released under the [MIT license](LICENSE). Please make sure you understand its implications and guarantees.
-
-## Enjoy!! 😸
+|           | Ochtend | Dagopvang | Hele dagopvang |
+| --------- | ------- | --------- | -------------- |
+| Maandag   | v       | v         | v              |
+| Dinsdag   | v       | v         | v              |
+| Woensdag  | v       |           |                |
+| Donderdag | v       | v         | v              |
+| Vrijdag   | v       |           |                |
