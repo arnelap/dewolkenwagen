@@ -1,15 +1,28 @@
 ---
-title: 'tech'
+title: Agenda
 date: 2018-11-14T19:02:50-07:00
 draft: false
+subtitle: 18/06/2020
+agenda:
+  - omschrijving: Drie koningenspel (zonder ouders)
+    datum: Week 1,2,3
+    afgelast: false
+  - omschrijving: Themaweek Sneeuwklokjesfeest (zonder ouders)
+    datum: Week 8 en 9
+    afgelast: true
+  - omschrijving: >-
+      Palmpaasoptocht. Aanvang 9.uur. 
+
+      Wandeling door het landgoed. Met ouders, oppas, grootouders, zusjes, broertjes
+    datum: >-
+      Donderdag 2 en vrijdag 3 april smorgens om 9.00 uur. Samen met ouders en
+      kinderen.
+
+
+      Ook peuters die op andere dagen komen spelen zijn samen met papa/ mama/ oppas hartelijk welkom in de optocht!  (helaas afgelast; de Wolkenwagen was in deze periode gesloten vanwege  de corona)
+    afgelast: false
+  - omschrijving: Themaweek van de Paashaas (zonder ouders)
+    datum: Week 15 en 16
+    afgelast: false
 ---
-
-# [Victor Hugo](https://github.com/netlify-templates/victor-hugo)
-
-## A Hugo boilerplate for creating truly epic websites
-
-<img src="https://d33wubrfki0l68.cloudfront.net/30790d6888bd8af863fb2b5c33a7f337cdbda243/4e867/images/hugo-logo-wide.svg" style="width: 40%" />
-
-This is a boilerplate for using [Hugo](https://gohugo.io/) as a static site generator and [Webpack](https://webpack.js.org/) as your asset pipeline. Victor Hugo setup to use [PostCSS](http://postcss.org/) and [Babel](https://babeljs.io/) for CSS and JavaScript compiling/transpiling. This project is released under the [MIT license](LICENSE). Please make sure you understand its implications and guarantees.
-
-## Enjoy!! 😸
+Seizoensfeesten op de Wolkenwagen
