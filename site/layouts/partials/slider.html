@@ -1,0 +1,7 @@
+<div class="main-carousel" data-flickity='{ "cellAlign": "left", "contain": true, "autoPlay": 6000 }'>
+  {{ range .slides }}
+  <div class="carousel-cell">
+    <img src="{{.image}}" alt="" class="center db mb3" style="width: 240px">
+  </div>
+  {{ end }}
+</div>
