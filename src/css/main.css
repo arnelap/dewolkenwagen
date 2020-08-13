@@ -57,21 +57,25 @@ h1, h2, h3, h4, h5, h6 { font-weight: 900; }
 }
 .dropdown {
 	position: absolute;
-	left: 100%;
-	top: 0;
+	left: 0;
 	display: none;
 	z-index: 99;
 }
+.dropdown li { width: 250px; }
 .has-dropdown > a {
 	padding-right: 35px !important;
 }
-
+.has-dropdown:hover .dropdown { display: block; }
 
 
 
 .carousel-cell {
   width: 100%; /* full width */
-  height: 160px; /* height of carousel */
+  height: 545px; /* height of carousel */
   margin-right: 10px;
 }
+.carousel-cell img { width: 100%; }
 
+@media screen and (min-width: 760px) {
+.show-for-small {display: none;}
+}
