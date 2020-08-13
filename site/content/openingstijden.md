@@ -14,3 +14,11 @@ zaterdag: hide
 zondag: hide
 ---
 * Bij de hele dagopvang eten we met de kinderen om 17.00 uur een warme maaltijd.
+
+|           | Ochtend | Dagopvang | Hele dagopvang |
+| --------- | ------- | --------- | -------------- |
+| Maandag   | v       | v         | v              |
+| Dinsdag   | v       | v         | v              |
+| Woensdag  | v       |           |                |
+| Donderdag | v       | v         | v              |
+| Vrijdag   | v       |           |                |
