@@ -5,16 +5,6 @@ media_folder: "site/static/img" # Folder where user uploaded files should go
 public_folder: "img"
 locale: 'nl'
 collections: # A list of collections the CMS should be able to edit
-  - name: "post" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "Post" # Used in the UI, ie.: "New Post"
-    folder: "site/content/post" # The path to the folder where the documents are stored
-    create: true # Allow users to create new documents in this collection
-    fields: # The fields each document in this collection have
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Intro Blurb", name: "description", widget: "text"}
-      - {label: "Image", name: "image", widget: "image", required: false}
-      - {label: "Body", name: "body", widget: "markdown"}
   - name: "pages"
     label: "Pages"
     files:
@@ -29,7 +19,7 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "Agenda", name: agenda, widget: list, fields: [
               {label: "Omschrijving", name: "omschrijving", widget: "text"},
               {label: "Datum", name: "datum", widget: "text"},
-              {label: "Afgelast", name: "afgelast", widget: "boolean"}]}
+              {label: "Afgelast", name: "afgelast", widget: "boolean", required: false}]}
       - file: "site/content/_index.md"
         label: "Home"
         name: "home"
@@ -167,3 +157,13 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Title, name: title, widget: string}
           - {label: Subtitle, name: subtitle, widget: text}
           - {label: "Body", name: "body", widget: "markdown"}
+  - name: "post" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Post" # Used in the UI, ie.: "New Post"
+    folder: "site/content/post" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Intro Blurb", name: "description", widget: "text"}
+      - {label: "Image", name: "image", widget: "image", required: false}
+      - {label: "Body", name: "body", widget: "markdown"}
