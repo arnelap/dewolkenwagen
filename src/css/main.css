@@ -4,7 +4,7 @@
 /* Uncomment out the line below to help debug layout issues */
 /*@import './imports/_debug';*/
 
-html, body { margin: 0; padding: 0; font-family: "Roboto",sans-serif; color: #4b01bb; text-rendering: optimizeLegibility; background-color: #fff; }
+html, body { margin: 0; padding: 0; font-display: swap; font-family: "Roboto",sans-serif; color: #4b01bb; text-rendering: optimizeLegibility; background-color: #fff; }
 header.main { background: #fff url("/img/top-bg-2.gif") no-repeat 100% 0; }
 header nav { height: 45px; }
 .content { width: 100%; background-color: #fff; }

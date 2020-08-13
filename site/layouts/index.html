@@ -5,7 +5,16 @@
 {{ partial "page" . }}
 
 <div class="row">
-	<iframe width="560" height="315" src="{{.Params.youtube}}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<iframe width="560" height="315" src="" data-src="{{.Params.youtube}}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<script type="text/javascript">
+		function init() {
+  var vidDefer = document.getElementsByTagName('iframe');
+  for (var i=0; i<vidDefer.length; i++) {
+    if(vidDefer[i].getAttribute('data-src')) {
+      vidDefer[i].setAttribute('src',vidDefer[i].getAttribute('data-src'));
+} } }
+window.onload = init;
+	</script>
 </div>
 
 {{ end }}
