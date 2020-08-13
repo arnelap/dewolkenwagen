@@ -8,12 +8,13 @@
 	<iframe width="560" height="315" src="" data-src="{{.Params.youtube}}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	<script type="text/javascript">
 		function init() {
+
   var vidDefer = document.getElementsByTagName('iframe');
   for (var i=0; i<vidDefer.length; i++) {
     if(vidDefer[i].getAttribute('data-src')) {
       vidDefer[i].setAttribute('src',vidDefer[i].getAttribute('data-src'));
 } } }
-window.onload = init;
+window.onload = window.setTimeout(init,1000);
 	</script>
 </div>
 
