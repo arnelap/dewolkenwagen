@@ -1,15 +1,29 @@
 ---
-title: 'tech'
+title: Veiligheid en kwaliteit
 date: 2018-11-14T19:02:50-07:00
 draft: false
+subtitle: " "
 ---
+**Scholing en coaching**
 
-# [Victor Hugo](https://github.com/netlify-templates/victor-hugo)
+Het team van de Wolkenwagen streeft naar kwalitatief hoogwaardige pedagogie. De drie-wekelijkse teamvergaderingen op de woensdagmiddag zijn bedoeld voor praktisch overleg, collegiale afstemming en kinderbesprekingen. Ook studeren we regelmatig samen want in het boeiende vak van pedagogisch medewerker raak je nooit uitgeleerd!
 
-## A Hugo boilerplate for creating truly epic websites
+Daarnaast heeft de Wolkenwagen iemand in dienst met de functie van  pedagogisch coach voor praktische ondersteuning op de werkvloer en intervisie met het team.
 
-<img src="https://d33wubrfki0l68.cloudfront.net/30790d6888bd8af863fb2b5c33a7f337cdbda243/4e867/images/hugo-logo-wide.svg" style="width: 40%" />
+**Privacy beleid** 
 
-This is a boilerplate for using [Hugo](https://gohugo.io/) as a static site generator and [Webpack](https://webpack.js.org/) as your asset pipeline. Victor Hugo setup to use [PostCSS](http://postcss.org/) and [Babel](https://babeljs.io/) for CSS and JavaScript compiling/transpiling. This project is released under the [MIT license](LICENSE). Please make sure you understand its implications and guarantees.
+De Wolkenwagen gaat zorgvuldig om met uw persoonsgegevens om uw privacy te waarborgen.
 
-## Enjoy!! 😸
+[Alles over ons privacybeleid](/privacy_policy_wolkenwagen.pdf)
+
+De Wolkenwagen is aangesloten bij de Geschillencommissie kinderopvang en peuterspeelzalen, waaraan tevens verbonden is het Klachtenloket Kinderopvang.
+
+In het landelijk register kinderopvang vind u ons onder nummer LRK197318010.
+
+De Wolkenwagen biedt uw kind een veilige en pedagogisch verantwoorde speelplek. Alle pedagogische medewerksters volgen jaarlijks de opfriscursus EHBO voor kinderen.
+
+Het oordeel van de GGD vindt u onder de volgende link:
+
+[www.landelijkregisterkinderopvang.nl/pp/inzien/Oko/InspectieRapport.jsf?selectedResultId=276277&documentId=0](https://www.landelijkregisterkinderopvang.nl/pp/inzien/Oko/InspectieRapport.jsf?selectedResultId=276277&documentId=0)
+
+![](img/8-b-glijbaan.jpg)
