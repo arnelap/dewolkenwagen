@@ -1,15 +1,24 @@
 ---
-title: 'tech'
+title: Peuterspeelgroep
 date: 2018-11-14T19:02:50-07:00
 draft: false
+subtitle: Ruim 20 jaar geleden opgericht door ouders die voor hun kindje een
+  kleinschalige antroposofische peuterspeelzaal zochten biedt de Wolkenwagen
+  inmiddels peuteropvang in de ochtenden, middagen of een combinatie van ochtend
+  en middagen.
 ---
+**Peutertoeslag**
 
-# [Victor Hugo](https://github.com/netlify-templates/victor-hugo)
+Komt u niet in aanmerking voor VVE-subsidie of kinderopvangtoeslag via de belasting, dan biedt de gemeente een subsidieregeling voor peuters. Deze is inkomensonafhankelijk. Voor meer informatie, zie de website van de gemeente via de volgende link.
 
-## A Hugo boilerplate for creating truly epic websites
+[https://www.heuvelrug.nl/​gemeenteraad/​raadsinformatiebrieven_45819/​item/invoering-regeling-​peutertoeslag-utrechtse-​heuvelrug-2017-241017_100906.​html](https://www.heuvelrug.nl/gemeenteraad/raadsinformatiebrieven_45819/item/invoering-regeling-peutertoeslag-utrechtse-heuvelrug-2017-241017_100906.html)
 
-<img src="https://d33wubrfki0l68.cloudfront.net/30790d6888bd8af863fb2b5c33a7f337cdbda243/4e867/images/hugo-logo-wide.svg" style="width: 40%" />
+**​Eén programma**
 
-This is a boilerplate for using [Hugo](https://gohugo.io/) as a static site generator and [Webpack](https://webpack.js.org/) as your asset pipeline. Victor Hugo setup to use [PostCSS](http://postcss.org/) and [Babel](https://babeljs.io/) for CSS and JavaScript compiling/transpiling. This project is released under the [MIT license](LICENSE). Please make sure you understand its implications and guarantees.
+Wij bieden kleine overzichtelijke speelgroepjes voor peuters van 2 tot 4 jaar voor één of meerder ochtenden of middagen of voor langere dagen. De Wolkenwagen biedt ouders die een peuterspeelzaal wensen en ouders die op zoek zijn naar kinderopvang hetzelfde programma aan. De peuters spelen met elkaar in dezelfde groepjes, en ook het uurtarief van peuterspeelzaal en kinderopvang is hetzelfde. Het verschil zit 'm in de frequentie en de lengte van de dagen; ouders die de Wolkenwagen inzetten als opvang van hun kind omdat beiden bijvoorbeeld werken zullen vaak meer dagen afnemen, en kiezen voor langere dagen. Ouders die behoefte hebben aan een peuterspeelzaal brengen hun kindje meestal een paar dagdelen.
 
-## Enjoy!! 😸
+Overigens gelden vanaf 1 januari 2016 dezelfde kwaliteitseisen in kinderopvang en peuterspeelzaal. Zo is de leidster- kind ratio hetzelfde en worden dezelfde eisen gesteld aan het pedagogisch beleid.
+
+De Wolkenwagen is een landelijk geregistreerd kinderdagverblijf waardoor u in veel gevallen in aanmerking komt voor kindertoeslag via de belasting.
+
+De Wolkenwagen staat geregistreerd in het Landelijk Register Kinderopvang (LRK) 197318010
