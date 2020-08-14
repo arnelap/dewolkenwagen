@@ -1,15 +1,46 @@
 ---
-title: 'tech'
+title: Vacatures
 date: 2018-11-14T19:02:50-07:00
 draft: false
+subtitle: Het gezellige houten huis van Kinderopvang de Wolkenwagen ligt midden
+  in de natuur van het oude landgoed en centraal gelegen in Driebergen.
 ---
+Per 1 april of z.s.m. is de Wolkenwagen op zoek naar een
 
-# [Victor Hugo](https://github.com/netlify-templates/victor-hugo)
+## **enthousiaste en zorgzame pedagogisch medewerker voor onze peutergroep.**
 
-## A Hugo boilerplate for creating truly epic websites
+**Omvang per week ± 16 - 20 groepsgebonden uren.**
 
-<img src="https://d33wubrfki0l68.cloudfront.net/30790d6888bd8af863fb2b5c33a7f337cdbda243/4e867/images/hugo-logo-wide.svg" style="width: 40%" />
+Wij vragen van onze nieuwe collega:
 
-This is a boilerplate for using [Hugo](https://gohugo.io/) as a static site generator and [Webpack](https://webpack.js.org/) as your asset pipeline. Victor Hugo setup to use [PostCSS](http://postcss.org/) and [Babel](https://babeljs.io/) for CSS and JavaScript compiling/transpiling. This project is released under the [MIT license](LICENSE). Please make sure you understand its implications and guarantees.
+* Een relevante opleiding met diploma
+* De motivatie om zich verder te verdiepen in de peuterpedagogiek met antroposofische visie
+* Het vermogen om met beweeglijkheid en fantasie aan te sluiten bij de belevingswereld van peuters
+* Verzorgende kwaliteiten t.b.v. de huiscultuur (de kinderen; de speelomgeving; het pedagogisch klimaat; de jaarfeesten; de warme maaltijden etc.)
+* Vermogen om te kunnen werken in teamverband
+* Communicatieve vaardigheden
+* Bereidheid om zo nu en dan in te vallen voor een collega
+* Plezier in zingen!
 
-## Enjoy!! 😸
+Wij bieden o.a:
+
+* Een kleinschalige werkplek
+* Een gemotiveerd team
+* Coaching en werkbegeleiding
+* Een kring van enthousiaste ouders
+* Een huiselijk onderkomen
+* Kleine groepen
+* Salaris conform cao-kinderopvang schaal 6;
+* Een gunstige regeling taakuren.
+* Regelmatige overleg in teamverband
+* Na een inwerkperiode veel ruimte voor eigen initiatief
+* Uitzicht op een jaarcontract
+* Regelmatige werktijden, vaste groepen
+
+Sluitingsdatum van deze vacature; 1 maart 2020
+
+Sollicitaties kun je mailen naar Joke van der Meij (directeur), [info@dewolkenwagen.nl](mailto:info@dewolkenwagen.nl)
+
+Voor meer informatie over deze vacature: 0639268445
+
+***Ook hebben wij geregeld vacatures voor stagiaires.***
