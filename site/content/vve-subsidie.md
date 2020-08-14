@@ -1,15 +1,18 @@
 ---
-title: 'tech'
+title: VVE subsidie
 date: 2018-11-14T19:02:50-07:00
 draft: false
+subtitle: Peuters die in aanmerking komen voor een VVE arrangement kunnen op de
+  Wolkenwagen 10 uur per week spelen tegen sterk gereduceerd tarief.
 ---
+Het consultatiebureau Vitras kan voor uw kind een vorm van VVE (vroeg- en voorschoolse educatie) adviseren als men een achterstand vermoedt in de ontwikkeling. Bijvoorbeeld op het gebied van taalverwerving of sociaal-emotioneel. 
 
-# [Victor Hugo](https://github.com/netlify-templates/victor-hugo)
+Voor meer informatie kunt u zich wenden tot consultatiebureau Vitras of [info@dewolkenwagen.nl](mailto:info@dewolkenwagen.nl)
 
-## A Hugo boilerplate for creating truly epic websites
+**Peutertoeslag**
 
-<img src="https://d33wubrfki0l68.cloudfront.net/30790d6888bd8af863fb2b5c33a7f337cdbda243/4e867/images/hugo-logo-wide.svg" style="width: 40%" />
+Komt u niet in aanmerking voor VVE-subsidie of kinderopvangtoeslag via de belasting, dan biedt de gemeente een subsidieregeling voor peuters. Deze is inkomensonafhankelijk. 
 
-This is a boilerplate for using [Hugo](https://gohugo.io/) as a static site generator and [Webpack](https://webpack.js.org/) as your asset pipeline. Victor Hugo setup to use [PostCSS](http://postcss.org/) and [Babel](https://babeljs.io/) for CSS and JavaScript compiling/transpiling. This project is released under the [MIT license](LICENSE). Please make sure you understand its implications and guarantees.
+Voor meer informatie, zie de website van de gemeente via de volgende link.
 
-## Enjoy!! 😸
+<https://www.heuvelrug.nl/gemeenteraad/raadsinformatiebrieven_45819/item/invoering-regeling-peutertoeslag-utrechtse-heuvelrug-2017-241017_100906.html>
