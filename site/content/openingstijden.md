@@ -22,3 +22,7 @@ zondag: hide
 | Woensdag  | v       |           |                |
 | Donderdag | v       | v         | v              |
 | Vrijdag   | v       |           |                |
+
+
+
+Bekijk de [Agenda ](/agenda)voor vakantiedagen en speciale gelegenheden.
