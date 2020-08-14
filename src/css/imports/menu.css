@@ -1,6 +1,15 @@
 nav ul { list-style: none; margin: 0; padding: 0; position: absolute; right: 0; background-color: #4b01bb; }
 nav ul li { float: left; position: relative; }
 nav ul li a { display: block; width: 100%; color: #fff; padding: 0 15px; line-height: 45px; text-decoration: none; box-sizing: border-box; background-color: #4b01bb;}
+header nav { height: 45px; position: relative; z-index: 100;}
+.menu-title {
+  color: #fff;
+font-weight: 600;
+position: absolute;
+right: 65px;
+top: 13px;
+font-size: 25px;
+}
 
 
 .has-dropdown > a::after {
@@ -37,6 +46,7 @@ nav ul li a { display: block; width: 100%; color: #fff; padding: 0 15px; line-he
 @media screen and (max-width: 759px) {
 	.hide-for-small  {display: none;}
 	#main-menu {
+		width: 100%;
 		padding-top: 26px;
   z-index: 2;
   visibility: hidden;

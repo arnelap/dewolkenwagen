@@ -1,8 +1,28 @@
-header { background: #fff url("/img/top-bg-2.gif") no-repeat 100% 0; }
-header nav { height: 45px; }
+header { background: #fff }
 
 .branding { margin-top: 130px; }
 .logo { max-width: 200px; margin-left: -7px; }
 .branding h3 { font-size: 24px; margin-bottom: 0; margin-top: -5px; }
 .branding h2 { color: #cb08d7; display: inline-block;}
-header h2, #sidebar h2 {    font-size: 2.3125em;}
+header h2, #sidebar h2, .kennismaken h2 {    font-size: 2.3125em;}
+
+
+.headerbg { overflow: hidden; min-width: 1900px; position: absolute; right: 0; height: 164px; width: 100%; z-index: 1; }
+.headerbg .dark {
+    height: 132px;
+    width: 100%;
+    clip-path: polygon(0 0, 100% 0, 100% 27%, 0% 100%);
+    background-color: #4b01bb;
+    position: absolute;
+top: 0;
+z-index: 10;
+}
+.headerbg .light {
+    height: 164px;
+    width: 100%;
+    clip-path: polygon(0 0, 100% 0, 100% 31%, 0% 100%);
+    background-color: #cb08d7;
+    position: absolute;
+top: 0;
+z-index: 9;
+}

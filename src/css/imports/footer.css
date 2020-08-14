@@ -1,9 +1,28 @@
 
-footer.main { color: #fff; background: #4905ba url("/img/bottom-bg.gif") no-repeat 0 0; padding-top: 150px; background-size: contain; clear: both; min-height: 115px; }
+footer.main { color: #fff; background: #4905ba; padding-top: 150px; background-size: contain; clear: both; min-height: 115px; }
 footer.main ul { list-style: none; margin-bottom: 0; }
 footer.main ul li { padding-right: 10px; display: inline-block; }
 footer.main a { color: #fff; text-decoration: none; margin-bottom: 1.25em; display: inline-block; }
 footer.main a:hover { color: #cb08d7; }
-#footer { padding-bottom: 40px; }
 
 @media screen and (max-width: 759px) { footer.main ul li { display: block;} }
+
+.footerbg { overflow: hidden; min-width: 1900px; position: absolute; right: 0; height: 164px; width: 100%; z-index: 1; }
+.footerbg .dark {
+    height: 132px;
+    width: 100%;
+    clip-path: polygon(0 0, 100% 0, 100% 27%, 0% 100%);
+    background-color: #fff;
+    position: absolute;
+top: 0;
+z-index: 10;
+}
+.footerbg .light {
+    height: 164px;
+    width: 100%;
+    clip-path: polygon(0 0, 100% 0, 100% 31%, 0% 100%);
+    background-color: #cb08d7;
+    position: absolute;
+top: 0;
+z-index: 9;
+}
