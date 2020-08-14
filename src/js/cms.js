@@ -23,6 +23,6 @@ CMS.registerPreviewTemplate("tarieven", HomePreview);
 CMS.registerPreviewTemplate("vacatures", HomePreview);
 CMS.registerPreviewTemplate("veiligheid-en-kwaliteit", HomePreview);
 CMS.registerPreviewTemplate("vve-subsidie", HomePreview);
-CMS.registerPreviewTemplate("post", PostPreview);
-CMS.registerPreviewTemplate("contact", ContactPreview);
+CMS.registerPreviewTemplate("post", HomePreview);
+CMS.registerPreviewTemplate("contact", HomePreview);
 CMS.init();

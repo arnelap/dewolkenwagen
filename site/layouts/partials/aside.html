@@ -4,4 +4,12 @@
 
 <a href="/agenda">Agenda</a>
 
+{{ range first 3 (where .Site.RegularPages "Section" "post") }}
+            {{ .Render "li"}}
+{{ end }}
+{{ if gt (where .Site.RegularPages "Section" "==" "post") 2 }}
+<p><a href="/post" class="more-posts">Meer nieuws lezen</a></p>
+{{ end }}
+
+
 </aside>
