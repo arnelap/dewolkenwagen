@@ -73,36 +73,6 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Subtitle, name: subtitle, widget: text, required: false}
-          - {label: "Maandag", name: "maandag", widget: "select",  options: [
-              { label: "Ochtend", value: "ochtend" },
-              { label: "Dagopvang", value: "dagopvang" },
-              { label: "Hele dagopvang", value: "heledag" }]}
-          - {label: "Dinsdag", name: "dinsdag", widget: "select",  options: [
-              { label: "Ochtend", value: "ochtend" },
-              { label: "Dagopvang", value: "dagopvang" },
-              { label: "Hele dagopvang", value: "heledag" }]}
-          - {label: "Woensdag", name: "woensdag", widget: "select",  options: [
-              { label: "Ochtend", value: "ochtend" },
-              { label: "Dagopvang", value: "dagopvang" },
-              { label: "Hele dagopvang", value: "heledag" }]}
-          - {label: "Donderdag", name: "donderdag", widget: "select",  options: [
-              { label: "Ochtend", value: "ochtend" },
-              { label: "Dagopvang", value: "dagopvang" },
-              { label: "Hele dagopvang", value: "heledag" }]}
-          - {label: "Vrijdag", name: "vrijdag", widget: "select",  options: [
-              { label: "Ochtend", value: "ochtend" },
-              { label: "Dagopvang", value: "dagopvang" },
-              { label: "Hele dagopvang", value: "heledag" }]}
-          - {label: "Zaterdag", name: "zaterdag", widget: "select",  options: [
-              { label: "Ochtend", value: "ochtend" },
-              { label: "Dagopvang", value: "dagopvang" },
-              { label: "Hele dagopvang", value: "heledag" },
-              { label: "Niet weergeven", value: "hide" }]}
-          - {label: "Zondag", name: "zondag", widget: "select",  options: [
-              { label: "Ochtend", value: "ochtend" },
-              { label: "Dagopvang", value: "dagopvang" },
-              { label: "Hele dagopvang", value: "heledag" },
-              { label: "Niet weergeven", value: "hide" }]}
           - {label: "Body", name: "body", widget: "markdown"}
       - file: "site/content/tarieven.md"
         label: "Tarieven"
@@ -111,10 +81,6 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Title, name: title, widget: string}
           - {label: Subtitle, name: subtitle, widget: text, required: false}
           - {label: "Body", name: "body", widget: "markdown"}
-          - {label: "Tarieven", name: tarieven, widget: list, fields: [
-              {label: "Opvangtijden", name: "opvangtijden", widget: "text"},
-              {label: "Bruto maandbedragen", name: "maandbedragen", widget: "text"},
-              {label: "Inclusief", name: "inclusief", widget: "text"}]}
       - file: "site/content/vve-subsidie.md"
         label: "VVE subsidie"
         name: "vve-subsidie"
