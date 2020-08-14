@@ -3,6 +3,7 @@ title: Tarieven
 date: 2018-11-14T19:02:50-07:00
 draft: false
 subtitle: Wij hanteren in 2020 een bruto uurtarief van € 8,75
+tarieven: []
 ---
 **Over dit bedrag ontvangt u kinderopvangtoeslag via de belastingdienst als beide ouders in het gezin werken of studeren. Komt u niet in aanmerking voor kinderopvangtoeslag, dan kunt u een peutertoeslag aanvragen bij de gemeente.**
 
