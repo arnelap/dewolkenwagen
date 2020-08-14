@@ -1,4 +1,4 @@
-nav ul { list-style: none; margin: 0; padding: 0; position: absolute; right: 0; }
+nav ul { list-style: none; margin: 0; padding: 0; position: absolute; right: 0; background-color: #4b01bb; }
 nav ul li { float: left; position: relative; }
 nav ul li a { display: block; width: 100%; color: #fff; padding: 0 15px; line-height: 45px; text-decoration: none; box-sizing: border-box; background-color: #4b01bb;}
 
