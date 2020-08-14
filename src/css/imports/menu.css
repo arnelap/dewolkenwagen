@@ -44,7 +44,7 @@ font-size: 25px;
 }
 
 @media screen and (max-width: 759px) {
-	.hide-for-small  {display: none;}
+	.hide-for-small  {display: none !important;}
 	#main-menu {
 		width: 100%;
 		padding-top: 26px;
