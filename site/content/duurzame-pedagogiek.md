@@ -1,15 +1,21 @@
 ---
-title: 'tech'
+title: Duurzame pedagogiek
 date: 2018-11-14T19:02:50-07:00
 draft: false
+subtitle: De omringende natuur van het landgoed biedt de peuters alle
+  gelegenheid tot spelen en bewegen. En plukken en proeven...
 ---
+**Duurzame pedagogiek is ‘in’ hoewel in publicaties daarover niet overal hetzelfde onder wordt verstaan.** 
 
-# [Victor Hugo](https://github.com/netlify-templates/victor-hugo)
+**Voor De Wolkenwagen betekent duurzame pedagogiek o.a.:**
 
-## A Hugo boilerplate for creating truly epic websites
+* Veel buitenspelen in elk seizoen
+* Wandelen en verzamelen (appels,takken, slakkenhuisjes, afhankelijk van het seizoen!)
+* Biologische voeding
+* Ruimte voor ieders eigenheid en individueel ontwikkelingstempo
+* Een dagprograma met een goede balans tussen inspanning en ontspanning
+* Respect voor elkaar
+* Speelgoed van natuurlijke materialen 
+* Ecologische schoonmaakmiddelen
 
-<img src="https://d33wubrfki0l68.cloudfront.net/30790d6888bd8af863fb2b5c33a7f337cdbda243/4e867/images/hugo-logo-wide.svg" style="width: 40%" />
-
-This is a boilerplate for using [Hugo](https://gohugo.io/) as a static site generator and [Webpack](https://webpack.js.org/) as your asset pipeline. Victor Hugo setup to use [PostCSS](http://postcss.org/) and [Babel](https://babeljs.io/) for CSS and JavaScript compiling/transpiling. This project is released under the [MIT license](LICENSE). Please make sure you understand its implications and guarantees.
-
-## Enjoy!! 😸
+![](img/9_f_appeloogst.jpg)
