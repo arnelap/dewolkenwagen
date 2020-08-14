@@ -8,12 +8,12 @@ html, body { margin: 0; padding: 0; font-display: swap; font-family: "Roboto",sa
 
 .content { width: 100%; background-color: #fff; }
 .flex { display: flex; }
-
+@media screen and (max-width: 759px) { .flex {flex-wrap: wrap; }}
 article { flex: 1 0 auto; }
 aside#sidebar { width: 25%; padding-left: 1.8375em}
 
 a { color: #4b01bb; text-decoration: underline; }
-.row { width: 100%; max-width: 58.5em; margin-left: auto; margin-right: auto; padding-left: 0.9375em; padding-right: 0.9375em;}
+.row { max-width: 58.5em; margin-left: auto; margin-right: auto; padding-left: 0.9375em; padding-right: 0.9375em;}
 .cl1 { color: #854fd8 }
 .cl2 { color: #4b01bb }
 .cl3 { color: #cb08d7 }

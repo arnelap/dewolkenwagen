@@ -27,7 +27,7 @@ nav ul li a { display: block; width: 100%; color: #fff; padding: 0 15px; line-he
 .has-dropdown > a {
 	padding-right: 35px !important;
 }
-.has-dropdown:hover .dropdown { display: block; }
+.has-dropdown:hover .dropdown, .has-dropdown:active .dropdown { display: block; }
 
 @media screen and (min-width: 760px) {
 #overlay-button, .show-for-small {display: none;}
