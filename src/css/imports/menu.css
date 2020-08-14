@@ -33,8 +33,9 @@ nav ul li a { display: block; width: 100%; color: #fff; padding: 0 15px; line-he
 #overlay-button, .show-for-small {display: none;}
 
 }
-.show-for-small {display: none;}
+
 @media screen and (max-width: 759px) {
+	.hide-for-small  {display: none;}
 	#main-menu {
 		padding-top: 26px;
   z-index: 2;
