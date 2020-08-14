@@ -17,6 +17,7 @@ U kunt kiezen voor speelochtenden, dagopvang tot 15.30 uur en ook voor hele dag 
 
 |           | Ochtend | Dagopvang | Hele dagopvang* |
 | --------- | ------- | --------- | --------------- |
+|           | 08.00 - 12.30 uur | 08.00 - 15.30 uur | 08.00 - 18.00 uur |
 | Maandag   | v       | v         | v               |
 | Dinsdag   | v       | v         | v               |
 | Woensdag  | v       |           |                 |
