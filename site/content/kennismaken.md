@@ -1,15 +1,15 @@
 ---
-title: 'tech'
+title: Ik wil graag kennis maken met de Wolkenwagen en/of informatie over
+  beschikbare plaatsen
 date: 2018-11-14T19:02:50-07:00
 draft: false
+subtitle: "Wilt u graag meer weten over de Wolkenwagen dan nodigen wij u van
+  harte uit om samen met uw kind een kijkje te komen nemen tijdens een van onze
+  rondleidingen. In principe bieden we elke eerste woensdag van de maand een
+  rondleiding van 11.30-12.15 uur. U krijgt dan een indruk van de sfeer, er is
+  alle gelegenheid om vragen te stellen en u kunt zelf ervaren hoe de peuters
+  bij ons aan het spelen zijn. "
 ---
+We willen de rust voor onze peuters niet verstoren tijdens de rondleiding. Daarom is het aantal deelnemers per rondleiding aan een maximum gebonden. We vragen daarvoor uw begrip. Het is *noodzakelijk* dat u zich aanmeldt als u een rondleiding wenst. U ontvangt van ons dan een bevestiging. Bij overschrijding van het maximumaantal belangstellenden wordt er een tweede rondleiding ingepland op een andere dag**.**
 
-# [Victor Hugo](https://github.com/netlify-templates/victor-hugo)
-
-## A Hugo boilerplate for creating truly epic websites
-
-<img src="https://d33wubrfki0l68.cloudfront.net/30790d6888bd8af863fb2b5c33a7f337cdbda243/4e867/images/hugo-logo-wide.svg" style="width: 40%" />
-
-This is a boilerplate for using [Hugo](https://gohugo.io/) as a static site generator and [Webpack](https://webpack.js.org/) as your asset pipeline. Victor Hugo setup to use [PostCSS](http://postcss.org/) and [Babel](https://babeljs.io/) for CSS and JavaScript compiling/transpiling. This project is released under the [MIT license](LICENSE). Please make sure you understand its implications and guarantees.
-
-## Enjoy!! 😸
+U kunt zich hieronder voor een rondleiding aanmelden of informatie aanvragen. In beide gevallen krijgt u bericht van ons.
