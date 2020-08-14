@@ -1,100 +1,24 @@
-/*! TACHYONS v4.5.5 | http://tachyons.io */
+@import './imports/menu';
+@import './imports/header';
+@import './imports/footer';
+@import './imports/slider';
 
-
-/* Uncomment out the line below to help debug layout issues */
-/*@import './imports/_debug';*/
 
 html, body { margin: 0; padding: 0; font-display: swap; font-family: "Roboto",sans-serif; color: #4b01bb; text-rendering: optimizeLegibility; background-color: #fff; }
-header.main { background: #fff url("/img/top-bg-2.gif") no-repeat 100% 0; }
-header nav { height: 45px; }
+
 .content { width: 100%; background-color: #fff; }
-nav ul { list-style: none; margin: 0; padding: 0; position: absolute; right: 0; }
-nav ul li { float: left; position: relative; }
-nav ul li a { display: block; width: 100%; color: #fff; padding: 0 15px; line-height: 45px; text-decoration: none; box-sizing: border-box; background-color: #4b01bb;}
-
-
-
-.branding { margin-top: 130px; }
-.logo { max-width: 200px; margin-left: -7px; }
-.branding h3 { font-size: 24px; margin-bottom: 0; margin-top: -5px; }
-.branding h2 { color: #cb08d7; display: inline-block;}
+.flex { display: flex; }
 
 article { flex: 1 0 auto; }
 aside#sidebar { width: 25%; padding-left: 1.8375em}
-footer.main { color: #fff; background: #4905ba url("/img/bottom-bg.gif") no-repeat 0 0; padding-top: 150px; background-size: contain; clear: both; min-height: 115px; }
-footer.main ul { list-style: none; padding: 0; }
-footer.main ul li { padding-right: 10px; display: inline-block; }
-footer.main a { color: #fff; text-decoration: none; margin-bottom: 1.25em; display: inline-block; }
-footer.main a:hover { color: #cb08d7; }
-#footer { padding-bottom: 40px; }
 
-.row { width: 100%; max-width: 62.5em; margin-left: auto; margin-right: auto; padding-left: 0.9375em; padding-right: 0.9375em;}
+a { color: #4b01bb; text-decoration: underline; }
+.row { width: 100%; max-width: 58.5em; margin-left: auto; margin-right: auto; padding-left: 0.9375em; padding-right: 0.9375em;}
 .cl1 { color: #854fd8 }
 .cl2 { color: #4b01bb }
 .cl3 { color: #cb08d7 }
 .cl4 { color: #7c06a3 }
 
-h1 { font-size: 3.25em; }
-h2 { font-size: 2.3125em; }
-
+h1 { font-size: 2.6em; }
+h2 { font-weight: 900; font-size: 20px; }
 h1, h2, h3, h4, h5, h6 { font-weight: 900; }
-.flex { display: flex; }
-
-.has-dropdown > a::after {
-	content: "";
-	display: block;
-	width: 0;
-	height: 0;
-	border: inset 5px;
-	border-color: rgba(255,255,255,0.5) transparent transparent transparent;
-	border-top-style: solid;
-	margin-top: -2.5px;
-	top: 22.5px;
-	position: absolute;
-	right: 0;
-	margin-right: 15px;
-}
-.dropdown {
-	position: absolute;
-	left: 0;
-	display: none;
-	z-index: 99;
-}
-.dropdown li { width: 200px; }
-.has-dropdown > a {
-	padding-right: 35px !important;
-}
-.has-dropdown:hover .dropdown { display: block; }
-
-
-
-.carousel-cell {
-  width: 100%; /* full width */
-  height: 545px; /* height of carousel */
-  margin-right: 10px;
-}
-.carousel-cell img { min-height: 100%; }
-
-@media screen and (min-width: 760px) {
-.show-for-small {display: none;}
-}
-
-.flickity-page-dots {
-  bottom: 0;
-  background: transparent url(/img/flex-frame.png) no-repeat 0 100%;
-    background-size: auto;
-background-size: contain;
-height: 80px;
-}
-/* white circles */
-.flickity-page-dots .dot {
-  width: 15px;
-  height: 15px;
-  opacity: 1;
-  background: #fff;
-  border: 2px solid white;
-}
-/* fill-in selected dot */
-.flickity-page-dots .dot.is-selected {
-  background: #4b01bb;
-}

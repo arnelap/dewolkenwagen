@@ -1,0 +1,125 @@
+nav ul { list-style: none; margin: 0; padding: 0; position: absolute; right: 0; }
+nav ul li { float: left; position: relative; }
+nav ul li a { display: block; width: 100%; color: #fff; padding: 0 15px; line-height: 45px; text-decoration: none; box-sizing: border-box; background-color: #4b01bb;}
+
+
+.has-dropdown > a::after {
+	content: "";
+	display: block;
+	width: 0;
+	height: 0;
+	border: inset 5px;
+	border-color: rgba(255,255,255,0.5) transparent transparent transparent;
+	border-top-style: solid;
+	margin-top: -2.5px;
+	top: 22.5px;
+	position: absolute;
+	right: 0;
+	margin-right: 15px;
+}
+.dropdown {
+	position: absolute;
+	left: 0;
+	display: none;
+	z-index: 99;
+}
+.dropdown li { width: 200px; }
+.has-dropdown > a {
+	padding-right: 35px !important;
+}
+.has-dropdown:hover .dropdown { display: block; }
+
+@media screen and (min-width: 760px) {
+#overlay-button, .show-for-small {display: none;}
+
+}
+.show-for-small {display: none;}
+@media screen and (max-width: 759px) {
+	#main-menu {
+		padding-top: 26px;
+  z-index: 2;
+  visibility: hidden;
+  position: fixed;
+  &.active {
+    visibility: visible;
+  }
+  li { float: none; }
+ul { position: relative; li a {padding-left: 30px; } }
+
+
+}
+
+}
+
+body {
+  min-height: 100vh;
+  animation: bugfix infinite 1s;
+  -webkit-animation: bugfix infinite 1s;
+}
+
+@keyframes bugfix { from {padding:0;} to {padding:0;}}
+@-webkit-keyframes bugfix { from {padding:0;} to {padding:0;}}
+
+#overlay-button {
+  position: absolute;
+  right: 9px;
+  top: 0;
+  padding: 26px 11px;
+  z-index: 5;
+  cursor: pointer;
+  user-select: none;
+  span {
+      height: 4px;
+      width: 35px;
+      border-radius: 2px;
+      background-color: white;
+      position: relative;
+      display: block;
+      transition: all .2s ease-in-out;
+      &:before {
+        top: -10px;
+        visibility: visible;
+      }
+      &:after {
+        top: 10px;
+      }
+      &:before, &:after {
+          height: 4px;
+          width: 35px;
+          border-radius: 2px;
+          background-color: white;
+          position: absolute;
+          content: "";
+          transition: all .2s ease-in-out;
+      }
+    }
+    &:hover span, &:hover span:before, &:hover span:after {
+      background: #cb08d7;
+    }
+}
+
+input[type=checkbox] {
+  display: none;
+}
+
+input[type=checkbox]:checked ~ #main-menu {
+  visibility: visible;
+}
+
+input[type=checkbox]:checked ~ #overlay-button {
+	position: fixed;
+  &:hover span, span{
+    background: transparent;
+  }
+  span {
+    &:before {
+      transform: rotate(45deg) translate(7px, 7px);
+      opacity: 1;
+    }
+    &:after {
+      transform: rotate(-45deg) translate(7px, -7px);
+    }
+  }
+}
+
+
