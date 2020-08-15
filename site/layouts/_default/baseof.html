@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="{{ $.Site.Language.Lang }}">
   {{ partial "head" . }}
-  <body class="{{ .File.BaseFileName }}">
+  <body class="{{ .File.BaseFileName }} {{.Section}}">
 
     {{ block "header" . }}{{ partial "nav" . }}{{end}}
 

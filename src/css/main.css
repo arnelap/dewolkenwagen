@@ -33,7 +33,7 @@ hr { color: #cb08d7; }
 
 iframe { max-width: 100%; }
 
-.button { display: inline-block; color: #fff; text-decoration: none; transition: background-color 300ms ease-out; padding: 15px 18px; margin-right: 5px; font-weight: bold; border: none; }
+.button { font-size: 1em; display: inline-block; color: #fff; text-decoration: none; transition: background-color 300ms ease-out; padding: 15px 18px; margin-right: 5px; font-weight: bold; border: none; }
 .button.purple { background-color: #4b01bb;  }
 .button.pink { background-color: #cb08d7; }
 .button.purple:hover { background-color: #370188; color: #fff; }
@@ -64,3 +64,5 @@ input[type="text"], input[type="password"], input[type="date"], input[type="date
 }
 select { min-width: 130px;  border: 1px solid #cccccc; padding: 0.5em; height: 2.3125em; }
 span.required { color: #f00; }
+
+body.kennismaken section.kennismaken { display: none; }
