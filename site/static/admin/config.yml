@@ -10,7 +10,7 @@ collections: # A list of collections the CMS should be able to edit
   - name: "pages"
     label: "Pages"
     files:
-      - file: "site/content/agenda.md"
+      - file: "site/content/agenda/agenda.md"
         label: "Agenda"
         name: "agenda"
         widget: "list"

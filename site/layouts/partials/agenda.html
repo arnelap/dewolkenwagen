@@ -2,8 +2,8 @@
 <table>
 {{ range .agenda }}
 <tr {{ if .afgelast }} class="afgelast" {{end}}>
-<td {{ if eq (len .datum) 0 }} colspan="2" {{end}}>{{.omschrijving}}</td>
-{{ if gt (len .datum) 0 }}
+<td {{ if eq .datum "" }} colspan="2" {{end}}>{{.omschrijving}}</td>
+{{ if ne  .datum "" }}
 <td>{{ .datum }}</td>
 {{end}}>
 </tr>
