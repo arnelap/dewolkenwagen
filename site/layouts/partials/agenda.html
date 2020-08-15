@@ -1,4 +1,6 @@
 <div class="row content">
+<h1>{{ .Title }}</h1>
+<h2>{{ replace .Subtitle "\n" "<br/>" | safeHTML }}</h2>
 <table>
 {{ range .agenda }}
 <tr {{ if .afgelast }} class="afgelast" {{end}} >
