@@ -14,7 +14,7 @@ aside#sidebar { width: 25%; padding-left: 4em}
 
 a { color: #4b01bb; text-decoration: underline; }
 a:hover { color: #cb08d7; }
-.row { max-width: 58.5em; margin-left: auto; margin-right: auto; padding-left: 0.9375em; padding-right: 0.9375em; position: relative; z-index: 20;}
+.row { box-sizing: border-box; max-width: 58.5em; margin-left: auto; margin-right: auto; padding-left: 0.9375em; padding-right: 0.9375em; position: relative; z-index: 20;}
 .row img { max-width: 100%; }
 .cl1 { color: #854fd8 }
 .cl2 { color: #4b01bb }
