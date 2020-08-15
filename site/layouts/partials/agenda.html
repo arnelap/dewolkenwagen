@@ -1,0 +1,8 @@
+<div class="row"><table>
+{{ range .agenda }}
+<tr {{ if .afgelast }} class="afgelast" {{end}}>
+<td>{{.omschrijving}}</td>
+<td>{{ replace .datum "\n" "<br/>" | safeHTML }}</td>
+</tr>
+{{ end }}
+</table></div>

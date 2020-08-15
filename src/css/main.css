@@ -44,3 +44,12 @@ iframe { max-width: 100%; }
 
 
 
+table {	width: 100%; }
+.openingstijden table {  text-align: center; }
+th, td { padding: 15px 3px; }
+td:first-child { text-align: left;}
+
+tr:nth-child(even) {background: #f2f2f2}
+tr:nth-child(odd) {background: #FFF}
+tr.afgelast { background-color: #c2c2c2; }
+.afgelast td:nth-child(1) { text-decoration: line-through; }
