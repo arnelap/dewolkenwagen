@@ -17,7 +17,6 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Subtitle, name: subtitle, widget: text, required: false}
-          - {label: "Body", name: "body", widget: "markdown", required: false}
           - {label: "Agenda", name: agenda, widget: list, fields: [
               {label: "Omschrijving", name: "omschrijving", widget: "markdown"},
               {label: "Datum", name: "datum", widget: "markdown", required: false},

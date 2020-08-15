@@ -5,7 +5,6 @@ import format from "date-fns/format";
 export default class PostPreview extends React.Component {
   render() {
     const {entry, widgetFor, getAsset} = this.props;
-    let image = getAsset(entry.getIn(["data", "image"]));
 
     return <article className="cms content">
       <h1>{ entry.getIn(["data", "title"])}</h1>
