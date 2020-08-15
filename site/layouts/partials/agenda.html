@@ -3,7 +3,7 @@
 <h2>{{ replace .Subtitle "\n" "<br/>" | safeHTML }}</h2>
 <table>
 {{ range .agenda }}
-<tr {{ if .afgelast }} class="afgelast" {{end}} >
+<tr class="{{ if .afgelast }} afgelast  {{end}} {{ if eq .datum nil }} h3 {{end}}" >
 <td {{ if eq .datum nil }} colspan="2" {{end}}>{{.omschrijving | markdownify }}</td>
 {{ if ne .datum nil }}
 <td>{{ .datum | markdownify }}</td>
