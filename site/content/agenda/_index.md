@@ -20,7 +20,9 @@ agenda:
       kinderen.
 
 
-      Ook peuters die op andere dagen komen spelen zijn samen met papa/ mama/ oppas hartelijk welkom in de optocht!  **(helaas afgelast; de Wolkenwagen was in deze periode gesloten vanwege  de corona)**
+      Ook peuters die op andere dagen komen spelen zijn samen met papa/ mama/ oppas hartelijk welkom in de optocht!  \
+
+      **(helaas afgelast; de Wolkenwagen was in deze periode gesloten vanwege  de corona)**
     afgelast: true
   - omschrijving: Themaweek van de Paashaas (zonder ouders)
     datum: Week 15 en 16
@@ -44,13 +46,17 @@ agenda:
   - omschrijving: Sint & Piet brengen in de nacht ongezien cadeautjes
     datum: Week 49
   - omschrijving: "Adventsactiviteiten met ouders: o.a. kaarsjes trekken."
-    datum: Week 52 bij brengen tussen 8.00-9.00 uur.  **(onder voorbehoud  en
-      afhankelijk van de in december  geldende corona- maatregelen)**
+    datum: >-
+      Week 52 bij brengen tussen 8.00-9.00 uur.  \
+
+      **(onder voorbehoud  en afhankelijk van de in december  geldende corona- maatregelen)**
   - omschrijving: "### Ouderavonden"
   - omschrijving: "Thema: Over de peuterpedagogiek van de Wolkenwagen:
       Peuterpuberteit en liefdevol begrenzen"
-    datum: Woensdagavond 28 oktober **(onder voorbehoud  en afhankelijk van de in
-      oktober geldende corona- maatregelen)**
+    datum: >-
+      Woensdagavond 28 oktober \
+
+      **(onder voorbehoud  en afhankelijk van de in oktober geldende corona- maatregelen)**
   - omschrijving: "### Officiële feestdagen in 2020 waarop de Wolkenwagen gesloten is"
   - omschrijving: 2e Paasdag
     datum: Maandag 13 april
