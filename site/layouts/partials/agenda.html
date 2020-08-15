@@ -1,11 +1,11 @@
-<div class="row">
+<div class="row content">
 <table>
 {{ range .agenda }}
-<tr {{ if .afgelast }} class="afgelast" {{end}}>
-<td {{ if eq .datum "" }} colspan="2" {{end}}>{{.omschrijving}}</td>
-{{ if ne  .datum "" }}
-<td>{{ .datum }}</td>
-{{end}}>
+<tr {{ if .afgelast }} class="afgelast" {{end}} >
+<td {{ if eq .datum nil }} colspan="2" {{end}}>{{.omschrijving | markdownify }}</td>
+{{ if ne .datum nil }}
+<td>{{ .datum | markdownify }}</td>
+{{end}}
 </tr>
 {{ end }}
 </table></div>

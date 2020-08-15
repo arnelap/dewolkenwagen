@@ -51,5 +51,10 @@ td:first-child { text-align: left;}
 
 tr:nth-child(even) {background: #f2f2f2}
 tr:nth-child(odd) {background: #FFF}
-tr.afgelast { background-color: #c2c2c2; }
+tr.afgelast { color: #808080; }
 .afgelast td:nth-child(1) { text-decoration: line-through; }
+td h3 { margin: 0; }
+
+
+.beschikbare-plaatsen { display: none; }
+#beschikbare-plaatsen:checked ~ .beschikbare-plaatsen { display: block; }
