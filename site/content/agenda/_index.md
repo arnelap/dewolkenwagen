@@ -68,7 +68,7 @@ agenda:
 
       **Op donderdag 24 december sluit de Wolkenwagen om 15.30 uur**
   - omschrijving: |-
-      Vijf werkdagen waarop de Wolkenwagen in 2020 gesloten is
+      ### Vijf werkdagen waarop de Wolkenwagen in 2020 gesloten is
 
       *(In overleg met de OC vastgesteld)*
   - datum: |-
