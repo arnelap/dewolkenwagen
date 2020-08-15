@@ -8,3 +8,20 @@
 
 [context.deploy-preview]
   command = "yarn build:preview"
+
+[[headers]]
+  # Set the default header to the one we want for documents
+  for = "/*"
+    [headers.values]
+    cache-control = "public,max-age=31536000"
+    Referrer-Policy = "no-referrer-when-downgrade"
+    X-Frame-Options = "SAMEORIGIN"
+    X-Content-Type-Options = "nosniff"
+    Feature-Policy = "camera 'none'; geolocation 'none'; microphone 'none'"
+    Strict-Transport-Security = "max-age=31536000; includeSubDomains"
+
+[[headers]]
+  # Override cache duration for assets with periods in the filename (i.e. static assets)
+  for = "/*.*"
+    [headers.values]
+    cache-control = "public,max-age=31536000"
