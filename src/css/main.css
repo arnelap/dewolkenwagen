@@ -33,8 +33,8 @@ hr { color: #cb08d7; }
 
 iframe { max-width: 100%; }
 
-.button { display: inline-block; color: #fff; text-decoration: none; transition: background-color 300ms ease-out; padding: 15px 18px; margin-right: 5px; font-weight: bold; }
-.button.purple { background-color: #4b01bb; }
+.button { display: inline-block; color: #fff; text-decoration: none; transition: background-color 300ms ease-out; padding: 15px 18px; margin-right: 5px; font-weight: bold; border: none; }
+.button.purple { background-color: #4b01bb;  }
 .button.pink { background-color: #cb08d7; }
 .button.purple:hover { background-color: #370188; }
 .button.pink:hover { background-color: #9d06a6; }
@@ -54,7 +54,13 @@ tr:nth-child(odd) {background: #FFF}
 tr.afgelast { color: #808080; }
 .afgelast td:nth-child(1) { text-decoration: line-through; }
 td h3 { margin: 0; }
-
+.float-left { float: left; margin-right: 12px; }
 
 .beschikbare-plaatsen { display: none; }
 #beschikbare-plaatsen:checked ~ .beschikbare-plaatsen { display: block; }
+label { display: block; padding: 1em 0 0.3em 0; clear: both; }
+input[type="text"], input[type="password"], input[type="date"], input[type="datetime"], input[type="datetime-local"], input[type="month"], input[type="week"], input[type="email"], input[type="number"], input[type="search"], input[type="tel"], input[type="time"], input[type="url"], textarea,  {
+	width: 100%; max-width: 500px; border: 1px solid #cccccc; padding: 0.5em; height: 2.3125em;
+}
+select { min-width: 130px;  border: 1px solid #cccccc; padding: 0.5em; height: 2.3125em; }
+span.required { color: #f00; }

@@ -1,35 +1,24 @@
 <!-- Contact -->
-<form name="kennisnmaken" data-netlify="true" class="row">
+<form name="kennisnmaken" action="/bedankt" data-netlify="true" class="row">
 
 
-<label for="ikwilgraag"> Kruis aan wat van toepassing is:  <span >*</span></label>
- <input type="radio" name="ikwilgraag" value="kennisnmaken" >Ik wil graag kennis maken met de Wolkenwagen en/of uitgenodigd worden voor een rondleiding.
- <input type="radio" name="ikwilgraag" value="info" id="beschikbare-plaatsen">Ik wil graag  informatie over beschikbare plaatsen.
+
+
+<label for="ikwilgraag"> Kruis aan wat van toepassing is:  <span class="required">*</span></label>
+ 
+
+<label><input type="radio" name="ikwilgraag" value="kennisnmaken" >Ik wil graag kennis maken met de Wolkenwagen en/of uitgenodigd worden voor een rondleiding.</label>
+<label><input type="radio" name="ikwilgraag" value="info" id="beschikbare-plaatsen">Ik wil graag  informatie over beschikbare plaatsen.
 
 
 
 
 <fieldset class="beschikbare-plaatsen">
-  <label for="plaatsingswensen-ingangsdatum-min-leeftijd-2-jr">Ingangsdatum (min. leeftijd 2 jr) </label>
- <div >
-  <label >Maand </label>
- <select>
-  <option value="" selected="selected">Maand</option>
-  <option value="1">jan</option>
-  <option value="2">feb</option>
-  <option value="3">mrt</option>
-  <option value="4">apr</option>
-  <option value="5">mei</option>
-  <option value="6">jun</option>
-  <option value="7">jul</option>
-  <option value="8">aug</option>
-  <option value="9">sep</option>
-  <option value="10">okt</option>
-  <option value="11">nov</option><option value="12">dec</option></select>
-</div>
-<div >
+  <label for="ingangsdatum">Ingangsdatum (min. leeftijd 2 jr) </label>
+
+<div class="float-left">
   <label >Dag </label>
- <select>
+ <select name="ingang_dag">
   <option value="" selected="selected">Dag</option>
   <option value="1">1</option>
   <option value="2">2</option>
@@ -64,41 +53,40 @@
   <option value="31">31</option>
 </select>
 </div>
-<div >
-  <label >Jaar </label>
- <select>
-  <option value="" selected="selected">Jaar</option>
-  <option value="2020">2020</option>
-  <option value="2021">2021</option>
-  <option value="2022">2022</option>
-  <option value="2023">2023</option>
-</select>
-</div>
-<input type="image" src="/sites/all/modules/webform 3/images/calendar.png">
-</div>
-</div>
-<div >
-  <label for="plaatsingswensen-einddatum-max-leeftijd-4-jr">Einddatum (max. leeftijd 4 jr) </label>
- <div >
+ <div class="float-left">
   <label >Maand </label>
- <select><option value="" selected="selected">Maand</option>
+ <select name="ingang_maand">
+  <option value="" selected="selected">Maand</option>
   <option value="1">jan</option>
- <option value="2">feb</option>
- <option value="3">mrt</option>
- <option value="4">apr</option>
- <option value="5">mei</option>
- <option value="6">jun</option>
- <option value="7">jul</option>
- <option value="8">aug</option>
- <option value="9">sep</option>
- <option value="10">okt</option>
- <option value="11">nov</option>
- <option value="12">dec</option>
+  <option value="2">feb</option>
+  <option value="3">mrt</option>
+  <option value="4">apr</option>
+  <option value="5">mei</option>
+  <option value="6">jun</option>
+  <option value="7">jul</option>
+  <option value="8">aug</option>
+  <option value="9">sep</option>
+  <option value="10">okt</option>
+  <option value="11">nov</option><option value="12">dec</option></select>
+</div>
+
+<div class="float-left">
+  <label >Jaar </label>
+ <select name="ingang_jaar">
+ <option value="" selected="selected">Jaar</option>
+ <option value="{{ dateFormat "2006" now }}">{{ dateFormat "2006" now }}</option>
+ <option value="{{ dateFormat "2006" (now.AddDate 1 0 0)  }}">{{ dateFormat "2006" (now.AddDate 1 0 0)  }}</option>
+ <option value="{{ dateFormat "2006" (now.AddDate 2 0 0)  }}">{{ dateFormat "2006" (now.AddDate 2 0 0)  }}</option>
+ <option value="{{ dateFormat "2006" (now.AddDate 3 0 0)  }}">{{ dateFormat "2006" (now.AddDate 3 0 0)  }}</option>
 </select>
 </div>
-<div >
+
+
+
+  <label for="einddatum">Einddatum (max. leeftijd 4 jr) </label>
+  <div class="float-left">
   <label >Dag </label>
- <select>
+ <select name="eind_dag">
   <option value="" selected="selected">Dag</option>
   <option value="1">1</option>
  <option value="2">2</option>
@@ -133,81 +121,81 @@
  <option value="31">31</option>
 </select>
 </div>
-<div >
-  <label >Jaar </label>
- <select><option value="" selected="selected">Jaar</option>
-  <option value="2020">2020</option>
- <option value="2021">2021</option>
- <option value="2022">2022</option>
- <option value="2023">2023</option>
- <option value="2024">2024</option>
- <option value="2025">2025</option>
- <option value="2026">2026</option>
- <option value="2027">2027</option>
- <option value="2028">2028</option>
+ <div class="float-left">
+  <label >Maand </label>
+ <select name="eind_maand"><option value="" selected="selected">Maand</option>
+  <option value="1">jan</option>
+ <option value="2">feb</option>
+ <option value="3">mrt</option>
+ <option value="4">apr</option>
+ <option value="5">mei</option>
+ <option value="6">jun</option>
+ <option value="7">jul</option>
+ <option value="8">aug</option>
+ <option value="9">sep</option>
+ <option value="10">okt</option>
+ <option value="11">nov</option>
+ <option value="12">dec</option>
 </select>
 </div>
-<input type="image" src="/sites/all/modules/webform 3/images/calendar.png">
+<div class="float-left">
+  <label >Jaar </label>
+ <select name="eind_jaar">
+ <option value="" selected="selected">Jaar</option>
+ <option value="{{ dateFormat "2006" now }}">{{ dateFormat "2006" now }}</option>
+ <option value="{{ dateFormat "2006" (now.AddDate 1 0 0)  }}">{{ dateFormat "2006" (now.AddDate 1 0 0)  }}</option>
+ <option value="{{ dateFormat "2006" (now.AddDate 2 0 0)  }}">{{ dateFormat "2006" (now.AddDate 2 0 0)  }}</option>
+ <option value="{{ dateFormat "2006" (now.AddDate 3 0 0)  }}">{{ dateFormat "2006" (now.AddDate 3 0 0)  }}</option>
+ <option value="{{ dateFormat "2006" (now.AddDate 4 0 0)  }}">{{ dateFormat "2006" (now.AddDate 4 0 0)  }}</option>
+ <option value="{{ dateFormat "2006" (now.AddDate 5 0 0)  }}">{{ dateFormat "2006" (now.AddDate 5 0 0)  }}</option>
+ <option value="{{ dateFormat "2006" (now.AddDate 6 0 0)  }}">{{ dateFormat "2006" (now.AddDate 6 0 0)  }}</option>
+ <option value="{{ dateFormat "2006" (now.AddDate 7 0 0)  }}">{{ dateFormat "2006" (now.AddDate 7 0 0)  }}</option>
+ <option value="{{ dateFormat "2006" (now.AddDate 8 0 0)  }}">{{ dateFormat "2006" (now.AddDate 8 0 0)  }}</option>
+</select>
 </div>
-</div>
-<div >
-  <label for="plaatsingswensen-gewenste-groep">Gewenste groep </label>
- <div id="plaatsingswensen-gewenste-groep" >
- <input type="checkbox" id="plaatsingswensen-gewenste-groep-1" name="submitted[plaatsingswensen][gewenste_groep][plaatsing1]" value="plaatsing1">  <label >Maandag  8.00 – 12.30 uur </label>
 
-</div>
-<div >
- <input type="checkbox" id="plaatsingswensen-gewenste-groep-2" name="submitted[plaatsingswensen][gewenste_groep][plaatsing2]" value="plaatsing2">  <label >Maandag  12.30 – 15.30 uur </label>
 
+<div>
+<label for="gewenste-groep">Gewenste groep </label>
+ <div id="gewenste-groep" >
+ <label><input type="checkbox" name="maandag_ochtend" value="geselecteerd"> Maandag  8.00 – 12.30 uur </label>
+ <label><input type="checkbox" name="maandag_middag" value="geselecteerd"> Maandag  12.30 – 15.30 uur </label>
+ <label><input type="checkbox" name="dinsdag_ochtend" value="geselecteerd"> Dinsdag  8.00 – 12.30 uur </label>
+ <label><input type="checkbox" name="dinsdag_middag" value="geselecteerd"> Dinsdag 12.30 – 15.30 uur </label>
+ <label><input type="checkbox" name="woensdag_ochtend" value="geselecteerd"> Woensdag  8. - 12.30 uur (alleen ochtend) </label>
+ <label><input type="checkbox" name="donderdag_ochtend" value="geselecteerd"> Donderdag  8.00 – 12.30 uur </label>
+ <label><input type="checkbox" name="donderdag_middag" value="geselecteerd"> Donderdag 12.30 – 15.30 uur </label>
+ <label><input type="checkbox" name="vrijdag_ochtend" value="geselecteerd"> Vrijdag 8.00 – 12.30 uur (alleen ochtend) </label>
 </div>
-<div >
- <input type="checkbox" id="plaatsingswensen-gewenste-groep-3" name="submitted[plaatsingswensen][gewenste_groep][plaatsing3]" value="plaatsing3">  <label >Dinsdag  8.00 – 12.30 uur </label>
 
-</div>
-<div >
- <input type="checkbox" id="plaatsingswensen-gewenste-groep-4" name="submitted[plaatsingswensen][gewenste_groep][plaatsing4]" value="plaatsing4">  <label >Dinsdag 12.30 – 15.30 uur </label>
 
-</div>
-<div >
- <input type="checkbox" id="plaatsingswensen-gewenste-groep-5" name="submitted[plaatsingswensen][gewenste_groep][plaatsing5]" value="plaatsing5">  <label >Woensdag  8. - 12.30 uur (alleen ochtend) </label>
 
-</div>
-<div >
- <input type="checkbox" id="plaatsingswensen-gewenste-groep-6" name="submitted[plaatsingswensen][gewenste_groep][plaatsing6]" value="plaatsing6">  <label >Donderdag  8.00 – 12.30 uur </label>
 
-</div>
-<div >
- <input type="checkbox" id="plaatsingswensen-gewenste-groep-7" name="submitted[plaatsingswensen][gewenste_groep][plaatsing7]" value="plaatsing7">  <label >Donderdag 12.30 – 15.30 uur </label>
+  <label for="opmerkingen">Opmerkingen (geef ook aan indien u flexibel in de dagen bent)  </label>
+ <textarea name="opmerkingen"></textarea>
 
-</div>
-<div >
- <input type="checkbox" id="plaatsingswensen-gewenste-groep-8" name="submitted[plaatsingswensen][gewenste_groep][plaatsing8]" value="plaatsing8">  <label >Vrijdag 8.00 – 12.30 uur (alleen ochtend) </label>
 
-</div>
-</div>
-</div>
-<div >
-  <label for="plaatsingswensen-opmerkingen-geef-ook-aan-indien-u-flexibel-in-de-dagen-bent">Opmerkingen (geef ook aan indien u flexibel in de dagen bent)  </label>
- <div></textarea><div ></div></div>
-</div>
-</div></fieldset>
-<div >
-  <label for="naam">Uw naam <span >*</span></label>
- <input type="text" id="naam" name="submitted[naam]" value="" size="60" maxlength="128" >
-</div>
-<div >
-  <label for="e-mailadres">E-mailadres <span >*</span></label>
- <input >
-</div>
-<div >
-  <label for="telefoonnummer">Telefoonnummer <span >*</span></label>
- <input type="text" id="telefoonnummer" name="submitted[telefoonnummer]" value="" size="60" maxlength="128" >
-</div>
-<div >
-  <label for="leeftijd-van-uw-kind2">Leeftijd van uw kind <span >*</span></label>
- <select id="leeftijd-van-uw-kind2" name="submitted[leeftijd_van_uw_kind2]" >
-  <option>4</option>
+</fieldset>
+</label>
+
+
+  <label for="naam">Uw naam <span class="required">*</span></label>
+ <input type="text" id="naam" name="naam" value="" size="60" maxlength="128" required="">
+
+
+  <label for="email">E-mailadres <span class="required">*</span></label>
+ <input type="email" name="email" required="">
+
+
+  <label for="telefoonnummer">Telefoonnummer <span class="required">*</span></label>
+ <input type="text" id="telefoonnummer" name="telefoonnummer" value="" size="60" maxlength="15" required="">
+
+
+  <label for="leeftijd-van-uw-kind2">Leeftijd van uw kind <span class="required">*</span></label>
+ <select name="leeftijd_van_kind" required="">
+  <option>0</option><option>1</option><option>2</option><option>3</option><option>4</option>
  </select>
-</div>
+<br><br>
 <input type="submit" name="Indienen" value="Indienen" class="button purple">
-</div></form>
+
+</form>

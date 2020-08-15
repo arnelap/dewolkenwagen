@@ -109,15 +109,15 @@ body {
     }
 }
 
-input[type=checkbox] {
+#overlay-input {
   display: none;
 }
 
-input[type=checkbox]:checked ~ #main-menu {
+#overlay-input:checked ~ #main-menu {
   visibility: visible;
 }
 
-input[type=checkbox]:checked ~ #overlay-button {
+#overlay-input:checked ~ #overlay-button {
 	position: fixed;
   &:hover span, span{
     background: transparent;

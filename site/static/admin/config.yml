@@ -110,6 +110,13 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Title, name: title, widget: string}
           - {label: Subtitle, name: subtitle, widget: text, required: false}
           - {label: "Body", name: "body", widget: "markdown"}
+      - file: "site/content/bedankt.md"
+        label: "Bednkt voor uw bericht"
+        name: "bedankt"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Subtitle, name: subtitle, widget: text, required: false}
+          - {label: "Body", name: "body", widget: "markdown"}
       - file: "site/content/vacatures.md"
         label: "Vacatures"
         name: "vacatures"
