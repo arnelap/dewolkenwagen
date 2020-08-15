@@ -12,7 +12,7 @@ slides:
   - image: img/4_de_maandagclub_op_een_rij_toestemming_ouders.jpg
 youtube: https://www.youtube.com/embed/qvPYXQ92LvI
 ---
-**De concrete mogelijkheden vindt u onder [Openingstijden](/opensingstijden).**
+**De concrete mogelijkheden vindt u onder [Openingstijden](/openingstijden).**
 
 Bij ons vindt u kwaliteit: een fantastische speelplek midden in de natuur, biologische voeding, speelgoed van natuurlijke materialen en veilige, overzichtelijke peuterspeelgroepjes. Onze hooggekwalificeerde pedagogisch medewerksters hebben veel aandacht voor de individuele ontwikkeling van uw kind.
 
