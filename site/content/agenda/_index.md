@@ -39,10 +39,11 @@ agenda:
   - omschrijving: Themaweken Oogst
     datum: Week 38 en 39
   - omschrijving: St. Maarten optocht met pompoenlantaarn. Met ouders, grootouders, oppas
-    datum: In de avond van dinsdag 10 en woensdag 11 november. Verzamelen om 17.15
-      bij de Wolkenwagen. Optocht start om 17.30 uur tot 18.00 uur. (onder
-      voorbehoud  en afhankelijk van de in november geldende corona-
-      maatregelen)
+    datum: >-
+      In de avond van dinsdag 10 en woensdag 11 november. Verzamelen om 17.15
+      bij de Wolkenwagen. Optocht start om 17.30 uur tot 18.00 uur. \
+
+      **(onder voorbehoud  en afhankelijk van de in november geldende corona- maatregelen)**
   - omschrijving: Sint & Piet brengen in de nacht ongezien cadeautjes
     datum: Week 49
   - omschrijving: "Adventsactiviteiten met ouders: o.a. kaarsjes trekken."
