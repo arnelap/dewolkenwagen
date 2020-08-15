@@ -1,13 +1,16 @@
 <div class="row content">
 <h1>{{ .Title }}</h1>
 <h2>{{ replace .Subtitle "\n" "<br/>" | safeHTML }}</h2>
-<table>
+<table><tbody>
 {{ range .agenda }}
-<tr class="{{ if .afgelast }} afgelast  {{end}} {{ if eq .datum nil }} h3 {{end}}" >
+
+{{ if eq .datum nil }} </tbody></table><table><tbody> {{end}}
+
+<tr class="{{ if .afgelast }} afgelast  {{end}}" >
 <td {{ if eq .datum nil }} colspan="2" {{end}}>{{.omschrijving | markdownify }}</td>
 {{ if ne .datum nil }}
 <td>{{ .datum | markdownify }}</td>
 {{end}}
 </tr>
 {{ end }}
-</table></div>
+</tbody></table></div>
