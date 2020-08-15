@@ -1,4 +1,5 @@
-<div class="row"><table>
+<div class="row">
+<table>
 {{ range .agenda }}
 <tr {{ if .afgelast }} class="afgelast" {{end}}>
 <td {{ if eq (len .datum) 0 }} colspan="2" {{end}}>{{.omschrijving}}</td>
