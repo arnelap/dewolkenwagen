@@ -13,42 +13,23 @@ U kunt uw kind brengen tussen 8.00-9.00 uur. Tot 9.00 uur mogen alle peuters hun
 
 **Opvang is altijd inclusief ecologische luiers en 100% biologische voeding**
 
-
-
 ### Ochtend
 
 **Ophalen tussen 12.15 en 12.30 uur**\
-Bruto maandbedrag: €167,34 voor 1 ochtend per week  
-
-Inclusief:
-
-* Fruit
-* Lunch met zelfgebakken broodjes, rauwkost, melk, kruidenthee   
-
-
+Bruto maandbedrag: €167,34 voor 1 ochtend per week  \
+Inclusief Fruit en Lunch met zelfgebakken broodjes, rauwkost, melk, kruidenthee   
 
 ### Ochtend en vroege middag
 
 **Ophalen tussen 15.00-15.30 uur**\
-Bruto maandbedrag: €278,91 voor 1 lange dag per week    
+Bruto maandbedrag: €278,91 voor 1 lange dag per week    \
+Inclusief: desgewenst een middagslaapje., 2de keer fruit  
 
-Inclusief:
-
-* Met desgewenst een middagslaapje.
-* 2de keer fruit  
-
-
-   
-### Hele dag  
+### Hele dag
 
 **Ophalen tussen 17.30 en 18.00 uur.**\
-Bruto maandbedrag: €393,05 voor 1 hele dag per week , dit is inclusief €3,85 per warme maaltijd.
-
-Inclusief:
-
-* Een volwaardige warme biologische maaltijd om 17.00 uur.
-
-
+Bruto maandbedrag: €393,05 voor 1 hele dag per week , dit is inclusief €3,85 per warme maaltijd.\
+Inclusief een volwaardige warme biologische maaltijd om 17.00 uur.
 
 **Bruto prijs per uur**
 
