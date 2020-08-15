@@ -1,7 +1,7 @@
 baseurl = "/"
 languageCode = "nl-nl"
 languageLang = "nl"
-title = "Homepage"
+title = "De Wolkenwagen"
 
 # RSS, categories and tags disabled for an easy start
 # See configuration options for more details: 
