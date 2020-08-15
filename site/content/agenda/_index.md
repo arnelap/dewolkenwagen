@@ -71,11 +71,14 @@ agenda:
       ### Vijf werkdagen waarop de Wolkenwagen in 2020 gesloten is
 
       *(In overleg met de OC vastgesteld)*
-  - datum: |-
-      Vrijdag 22 mei (na Hemelvaartsdag)
-      Maandag 28 december\
-      Dinsdag 29 december
-      Woensdag 30 december\
-      Donderdag 31 december
+  - datum: Vrijdag 22 mei (na Hemelvaartsdag)
     omschrijving: Gesloten
+  - omschrijving: Gesloten
+    datum: Maandag 28 december
+  - omschrijving: Gesloten
+    datum: Dinsdag 29 december
+  - omschrijving: Gesloten
+    datum: Woensdag 30 december
+  - omschrijving: Gesloten
+    datum: Donderdag 31 december
 ---
