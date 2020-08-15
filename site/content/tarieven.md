@@ -31,6 +31,8 @@ Inclusief: desgewenst een middagslaapje., 2de keer fruit
 Bruto maandbedrag: €393,05 voor 1 hele dag per week , dit is inclusief €3,85 per warme maaltijd.\
 Inclusief een volwaardige warme biologische maaltijd om 17.00 uur.
 
+## Toeslagen
+
 **Bruto prijs per uur**
 
 De bruto kosten  per maand zijn  gebaseerd op een uurprijs van €8,75 per uur en  51 weken openstelling. Vijf dagen per jaar is de Wolkenwagen gesloten waaronder de dagen tussen Kerst en Oud en Nieuw en de vrijdag na Hemelvaartsdag.
