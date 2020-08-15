@@ -2,8 +2,9 @@
 title: Agenda
 date: 2018-11-14T19:02:50-07:00
 draft: false
-subtitle: 18/06/2020
+subtitle: "Meest recente update: 18/06/2020"
 agenda:
+  - omschrijving: "### Seizoensfeesten op de Wolkenwagen"
   - omschrijving: Drie koningenspel (zonder ouders)
     datum: Week 1,2,3
     afgelast: false
@@ -25,4 +26,3 @@ agenda:
     datum: Week 15 en 16
     afgelast: false
 ---
-Seizoensfeesten op de Wolkenwagen
