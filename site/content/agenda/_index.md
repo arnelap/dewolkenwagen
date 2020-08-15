@@ -56,4 +56,26 @@ agenda:
     datum: Maandag 13 april
   - omschrijving: Koningsdag
     datum: Maandag 27 april
+  - omschrijving: Bevrijdingsdag
+    datum: Dinsdag 5 mei
+  - omschrijving: Hemelvaartsdag
+    datum: Donderdag 21 mei
+  - omschrijving: Tweede Pinksterdag
+    datum: Maandag 1 juni
+  - omschrijving: Kerstmis
+    datum: |-
+      Vrijdag 25 december
+
+      **Op donderdag 24 december sluit de Wolkenwagen om 15.30 uur**
+  - omschrijving: |-
+      Vijf werkdagen waarop de Wolkenwagen in 2020 gesloten is
+
+      *(In overleg met de OC vastgesteld)*
+  - datum: |-
+      Vrijdag 22 mei (na Hemelvaartsdag)
+      Maandag 28 december\
+      Dinsdag 29 december
+      Woensdag 30 december\
+      Donderdag 31 december
+    omschrijving: Gesloten
 ---
