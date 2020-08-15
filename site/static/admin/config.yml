@@ -103,7 +103,7 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Title, name: title, widget: string}
           - {label: Subtitle, name: subtitle, widget: text, required: false}
           - {label: "Body", name: "body", widget: "markdown"}
-      - file: "site/content/kennismaken.md"
+      - file: "site/content/kennismaken/_index.md"
         label: "Kennismaken"
         name: "kennismaken"
         fields:

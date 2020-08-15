@@ -10,6 +10,6 @@ subtitle: "Wilt u graag meer weten over de Wolkenwagen dan nodigen wij u van
   alle gelegenheid om vragen te stellen en u kunt zelf ervaren hoe de peuters
   bij ons aan het spelen zijn. "
 ---
-We willen de rust voor onze peuters niet verstoren tijdens de rondleiding. Daarom is het aantal deelnemers per rondleiding aan een maximum gebonden. We vragen daarvoor uw begrip. Het is *noodzakelijk* dat u zich aanmeldt als u een rondleiding wenst. U ontvangt van ons dan een bevestiging. Bij overschrijding van het maximumaantal belangstellenden wordt er een tweede rondleiding ingepland op een andere dag**.**
+We willen de rust voor onze peuters niet verstoren tijdens de rondleiding. Daarom is het aantal deelnemers per rondleiding aan een maximum gebonden. We vragen daarvoor uw begrip. Het is *noodzakelijk* dat u zich aanmeldt als u een rondleiding wenst. U ontvangt van ons dan een bevestiging. Bij overschrijding van het maximumaantal belangstellenden wordt er een tweede rondleiding ingepland op een andere dag.
 
 U kunt zich hieronder voor een rondleiding aanmelden of informatie aanvragen. In beide gevallen krijgt u bericht van ons.
