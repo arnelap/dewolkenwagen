@@ -1,15 +1,10 @@
 <!doctype html>
-<html lang="{{ $.Site.Language.Lang }}">
+<html lang="nl">
   {{ partial "head" . }}
   <body class="{{ .File.BaseFileName }} {{.Section}}">
-
     {{ block "header" . }}{{ partial "nav" . }}{{end}}
-
-
     {{ block "main" . }}{{ end }}
-
     {{ block "footer" . }}{{ partial "footer" . }}{{end}}
-
     {{ $script := .Site.Data.webpack.main }}
     {{ with $script.js }}
      <!--  <script src="{{ relURL . }}"></script> -->

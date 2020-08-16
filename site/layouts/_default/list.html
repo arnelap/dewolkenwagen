@@ -1,6 +1,4 @@
 {{ define "main" }}
-
-
 <div class="row">
       {{ range (.Paginator 20).Pages.ByPublishDate.Reverse }}
           <div>
@@ -9,5 +7,4 @@
       {{ end }}
   {{ partial "pagination" . }}
 </div>
-
 {{end}}

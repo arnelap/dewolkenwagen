@@ -4,8 +4,9 @@ This template is build on top of [Victor Hugo](https://github.com/netlify/victor
 
 ## Getting started
 
-This can be deployed to Netlify. 
-For local development you need npm or yarn and node.js
+This can be deployed to Netlify and uses Netlify CMS with Netlify Identity and Netlify Forms.
+
+For local development you need npm or yarn and node.js.
 
 ## Local Development
 
@@ -13,33 +14,21 @@ Clone this repository, and run `yarn` or `npm install` from the new folder to in
 
 Then start the development server with `yarn start` or `npm start`.
 
-Some commands:
-npm run preview - will start a hugo server and open a web browser
+`npm run preview` - will start a hugo server and open a web browser
 
-You can also use commands such as
-npm start
-npm run build
-npm run build:preview
 
 ## Layouts
 
+
+
 The template is based on small, content-agnostic partials that can be mixed and matched. Refer to the `site/layouts/partials` folder for all available partials.
 
-Use Hugo’s `dict` functionality to feed content into partials and avoid repeating yourself and creating discrepancies.
 
 ## CSS
 
-The template uses a custom fork of Tachyons and PostCSS with cssnext and cssnano. To customize the template for your brand, refer to `src/css/imports/_variables.css` where most of the important global variables like colors and spacing are stored.
+The template uses a custom fork of Tachyons and PostCSS with cssnext and cssnano. 
+CSS files are located under `src/css/*` 
 
-## SVG
-
-All SVG icons stored in `site/static/img/icons` are automatically optimized with SVGO (gulp-svgmin) and concatenated into a single SVG sprite stored as a a partial called `svg.html`. Make sure you use consistent icons in terms of viewport and art direction for optimal results. Refer to an SVG via the `<use>` tag like so:
-
-```
-<svg width="16px" height="16px" class="db">
-  <use xlink:href="#SVG-ID"></use>
-</svg>
-```
 
 ## Basic Concepts
 

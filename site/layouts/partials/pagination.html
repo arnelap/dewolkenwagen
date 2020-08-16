@@ -1,5 +1,4 @@
 {{ if gt .Paginator.TotalPages 1 }}
- 
 <nav class="cf pa3">
     {{ if .Paginator.HasNext }}
     <a title="Volgende Pagina" href="{{ .Paginator.Next.URL }}">
@@ -14,5 +13,4 @@
         {{ end }}
     </div>
 </nav>
- 
 {{ end }}
