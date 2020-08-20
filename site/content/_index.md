@@ -16,6 +16,6 @@ youtube: https://www.youtube.com/embed/qvPYXQ92LvI
 
 Bij ons vindt u kwaliteit: een fantastische speelplek midden in de natuur, biologische voeding, speelgoed van natuurlijke materialen en veilige, overzichtelijke peuterspeelgroepjes. Onze hooggekwalificeerde pedagogisch medewerksters hebben veel aandacht voor de individuele ontwikkeling van uw kind.
 
-Stichting De Wolkenwagen is een erkend kinderdagverblijf. In het landelijk register kinderopvang vind u ons onder nummer LRK197318010.
+Stichting De Wolkenwagen is een erkend kinderdagverblijf. U vindt ons in het landelijk register kinderopvang onder nummer LRK197318010.
 
 De Wolkenwagen-CD is weer verkrijgbaar! Deze is te bestellen door overmaken van €7,50 op bankrek.: NL50INGB0003148225, Stichting De Wolkenwagen. O.v.v. "CD". Verzendkosten €5,00 (graag het bezorgadres vermelden).
