@@ -17,4 +17,5 @@
 	<meta property="og:title" content="De Wolkenwagen | Kinderopvang en peuterspeelzaal">
 	<meta property="og:url" content="/">
 	<meta property="og:image" content="/img/logo.png">
+	<meta name="description" content="{{ if isset .Params "Subtitle" }}{{ replace .Params.Subtitle "\n" " " | safeHTML }}{{ end }}">
 </head>
