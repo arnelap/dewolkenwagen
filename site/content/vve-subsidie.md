@@ -1,6 +1,6 @@
 ---
 title: VVE subsidie
-date: 2018-11-14T19:02:50-07:00
+date: 
 draft: false
 subtitle: Peuters die in aanmerking komen voor een VVE arrangement kunnen op de
   Wolkenwagen 10 uur per week spelen tegen sterk gereduceerd tarief.

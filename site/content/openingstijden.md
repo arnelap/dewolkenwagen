@@ -3,7 +3,6 @@ dinsdag: heledag
 draft: false
 maandag: heledag
 vrijdag: ochtend
-date: 2018-11-14T19:02:50-07:00
 title: Openingstijden
 subtitle: De Wolkenwagen biedt flexibele opvang.
 woensdag: ochtend

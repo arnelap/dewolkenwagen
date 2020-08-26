@@ -1,6 +1,6 @@
 ---
 title: Vacatures
-date: 2018-11-14T19:02:50-07:00
+date: 
 draft: false
 subtitle: Het gezellige houten huis van Kinderopvang de Wolkenwagen ligt midden
   in de natuur van het oude landgoed en centraal gelegen in Driebergen.

@@ -1,6 +1,5 @@
 ---
 title: Duurzame pedagogiek
-date: 2018-11-14T19:02:50-07:00
 draft: false
 subtitle: De omringende natuur van het landgoed biedt de peuters alle
   gelegenheid tot spelen en bewegen. En plukken en proeven...

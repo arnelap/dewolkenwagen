@@ -1,6 +1,6 @@
 ---
 title: Peuterspeelgroep
-date: 2018-11-14T19:02:50-07:00
+date: 
 draft: false
 subtitle: Ruim 20 jaar geleden opgericht door ouders die voor hun kindje een
   kleinschalige antroposofische peuterspeelzaal zochten biedt de Wolkenwagen

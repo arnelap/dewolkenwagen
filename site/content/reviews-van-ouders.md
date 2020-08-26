@@ -1,6 +1,6 @@
 ---
 title: Reviews van ouders
-date: 2018-11-14T19:02:50-07:00
+date: 
 draft: false
 subtitle: >-
   Wij waren meteen vanaf de eerste week van onze zoon op de Wolkenwagen onder de
