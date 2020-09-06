@@ -31,11 +31,11 @@ Bruto maandbedrag: 371,87 voor 1 hele dag per week ,
 Dit is exclusief €3,85 voor de volwaardige biologische warme maaltijd die we om 16.30 uur met de peuters genieten.  \
  .
 
-## Toeslagen
+## Hoe bereken ik mijn netto ouderbijdrage?
 
 **Bruto prijs per uur**
 
-De bruto kosten  per maand zijn gebaseerd op een uurprijs van €8,75 per uur en  51 weken openstelling. Vijf dagen per jaar is de Wolkenwagen gesloten waaronder de dagen tussen Kerst en Oud en Nieuw en de vrijdag na Hemelvaartsdag. Deze dagen worden niet in rekening gebracht.
+De bruto kosten per maand zijn gebaseerd op een uurprijs van €8,75 per uur en  51 weken openstelling. Vijf dagen per jaar is de Wolkenwagen gesloten waaronder de dagen tussen Kerst en Oud en Nieuw en de vrijdag na Hemelvaartsdag. Deze dagen worden niet in rekening gebracht.
 
 **Proefberekening toeslagen**
 
