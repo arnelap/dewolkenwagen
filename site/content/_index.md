@@ -3,9 +3,9 @@ title: Zoekt u een peuterspeelzaal of kinderopvang voor uw kind?
 subtitle: "De Wolkenwagen biedt beide. Bij kinderopvang de Wolkenwagen speelt uw
   kind op het mooiste plekje van Driebergen: het landgoed Kraaybeek midden in
   het dorp. Uw peuter kan bij ons terecht vanaf twee jaar tot 4 jaar . Wij
-  bieden elke dag diverse opvangtijden. Bij aanmelding van uw kind kunt u kiezen
-  tussen opvang op ochtenden, korte dagopvang tot 15.30 uur, en hele dagopvang
-  tot 18.00 uur. "
+  bieden elke dag diverse opvangtijden. Bij inschrijving  kunt u kiezen tussen
+  opvang op ochtenden, korte dagopvang tot 15.30 uur, en hele dagopvang tot
+  18.00 uur. "
 slides:
   - image: img/1_slideshow_kind_achter_luikjes.jpg
   - image: img/2_hijskraan_binnenspel_slideshow.jpg
