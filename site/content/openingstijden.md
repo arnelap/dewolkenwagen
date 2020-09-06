@@ -3,12 +3,12 @@ dinsdag: heledag
 draft: false
 maandag: heledag
 vrijdag: ochtend
+zaterdag: hide
+zondag: hide
 title: Openingstijden
 subtitle: De Wolkenwagen biedt flexibele opvang.
 woensdag: ochtend
 donderdag: heledag
-zaterdag: hide
-zondag: hide
 ---
 U kunt kiezen voor speelochtenden, dagopvang tot 15.30 uur en ook voor hele dag opvang, tot 18.00 uur. Tussen 8.00 uur en 9.00 uur kunt u uw kind brengen. 
 
@@ -21,6 +21,6 @@ U kunt kiezen voor speelochtenden, dagopvang tot 15.30 uur en ook voor hele dag 
 | Donderdag | **v**             | **v**             | **v**             |
 | Vrijdag   | **v**             |                   |                   |
 
-\*Bij de hele dagopvang eten we met de kinderen om 17.00 uur een warme maaltijd.
+\*Bij de hele dagopvang eten we met de kinderen om 16.30 uur een warme maaltijd.
 
 **Bekijk de [Agenda](/agenda) voor vakantiedagen en speciale gelegenheden.**
