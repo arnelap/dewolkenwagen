@@ -6,7 +6,7 @@ subtitle: Peuterpedagogie vanuit antroposofische visie
 ---
 **Het jonge kind voelt zich geborgen als het zich gezien en begrepen voelt.**
 
-Dat is heel in het kort het uitgangspunt van onze pedagogie. Peuters staan open in de wereld, ze begrijpen nog niet alles maar dat neemt niet weg dat ze veel meebeleven. Ook hebben zij een natuurlijke behoefte aan nabootsen en spelen. Peuters staan nabootsend en spelend in het leven. Het is hun manier van leren. Als pedagogen en opvoeders doen we er goed aan om als we hen verder willen brengen in hun ontwikkeling en opvoeding aan te sluiten bij deze bijzondere leervermogens.
+Dat is heel in het kort het uitgangspunt van onze pedagogie. Peuters staan open in de wereld, ze begrijpen nog niet alles maar dat neemt niet weg dat ze veel meebeleven. Ook hebben zij een natuurlijke behoefte aan nabootsen en spelen. Peuters staan nabootsend en spelend in het leven. Het is hun manier van leren. Als pedagogen en opvoeders doen we er goed aan om, als we hen verder willen brengen in hun ontwikkeling, de opvoeding aan te sluiten bij deze bijzondere leervermogens.
 
 ![Peuterpedagogie](img/5_in_huisjeshoek-001.jpg "Peuterpedagogie")
 
@@ -14,11 +14,11 @@ Dat is heel in het kort het uitgangspunt van onze pedagogie. Peuters staan open 
 
 In een positieve stemming kan een klein kind onbezorgd en vol vertrouwen de wereld tegemoet treden. We proberen dit vertrouwen niet te beschamen, en vooral het goede en het mooie te laten zien. Het ‘lelijke’ en ‘slechte’ dringt onvermijdelijk ook in de kinderwereld binnen, maar als het kind een stevige basis van (zelf) vertrouwen heeft ontwikkeld, zal het daar beter tegen bestand zijn.
 
-Een goede relatie tussen kind en pedagogisch medewerksters creëren we door te streven naar een hoge mate van sensitieve responsiviteit in contact met de peuters. 
+ 
 
 **Kleinschalig**
 
-De Wolkenwagen is een kleinschalige opvang voor peuters. De leidster-kind ratio is gemiddeld 1:6 tot 1:7 (ochtenden) en 1:5 (middagen). De pedagogische medewerkers kunnen zo voldoende aandacht schenken aan ieders inbreng en behoefte.
+De Wolkenwagen is een kleinschalige opvang voor peuters. De leidster-kind ratio is gemiddeld 1:6 tot 1:7 (ochtenden) en 1:5 (middagen). De kleine groep biedt peuters overzicht. Dat geeft een gevoel van veiligheid. Het bevordert het onderlinge vriendjesgevoel. De kleine groep biedt pedagogische medewerkers de mogelijkheid te streven naar een hoge mate van sensitieve responsiviteit in contact met de peuters. Zo kunnen zij voldoende aandacht schenken aan ieders inbreng en behoefte.
 
 **Samen doen, samen leren**
 
