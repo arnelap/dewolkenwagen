@@ -14,8 +14,6 @@ Dat is heel in het kort het uitgangspunt van onze pedagogie. Peuters staan open 
 
 In een positieve stemming kan een klein kind onbezorgd en vol vertrouwen de wereld tegemoet treden. We proberen dit vertrouwen niet te beschamen, en vooral het goede en het mooie te laten zien. Het ‘lelijke’ en ‘slechte’ dringt onvermijdelijk ook in de kinderwereld binnen, maar als het kind een stevige basis van (zelf) vertrouwen heeft ontwikkeld, zal het daar beter tegen bestand zijn.
 
- 
-
 **Kleinschalig**
 
 De Wolkenwagen is een kleinschalige opvang voor peuters. De leidster-kind ratio is gemiddeld 1:6 tot 1:7 (ochtenden) en 1:5 (middagen). De kleine groep biedt peuters overzicht. Dat geeft een gevoel van veiligheid. Het bevordert het onderlinge vriendjesgevoel. De kleine groep biedt pedagogische medewerkers de mogelijkheid te streven naar een hoge mate van sensitieve responsiviteit in contact met de peuters. Zo kunnen zij voldoende aandacht schenken aan ieders inbreng en behoefte.
@@ -30,7 +28,7 @@ Kleine kinderen hebben een natuurlijke behoefte om alles na te doen en mee te be
 
 ![](img/dagritme.jpg)
 
-Op de Wolkenwagen hanteren we een dagprogramma met vaste tijden voor spelen, eten, binnen-en buitenspel. Dat geeft een gevoel van veiligheid. Fienepien, een vertrouwd poppenvriendje, vertelt de peuters met behulp van dagritmefoto's hoe de dag eruit ziet. Ook zingen we door de dag heen vast repertoire. Liedjes kondigen de overgang aan naar de volgende activiteit. Zo hebben we liedjes voor het eten; waterverven, opruimen, handjes wassen; in de kring gaan; schoentjes aandoen, wandelen, broodbakken, afwassen etc.etc.
+Op de Wolkenwagen hanteren we een dagprogramma met vaste tijden voor spelen, eten, binnen-en buitenspel. Terugkerende activiteiten geven een gevoel van herkenning en vertrouwdheid. Peuters op de Wolkenwagen voelen zich zo snel vertrouwd. Fienepien, een vertrouwd poppenvriendje, vertelt de peuters met behulp van dagritmefoto's hoe de dag eruit ziet. Ook zingen we door de dag heen. Liedjes kondigen de overgang aan naar de volgende activiteit. Zo hebben we liedjes voor het alle dagelijks terugkerende bezigheden als eten; waterverven, opruimen, handjes wassen; broodjes bakken, muziek maken in de kring; schoentjes aandoen, wandelen, een afwasje doen etc.etc.
 
 **Samen leven, samen spelen**
 
