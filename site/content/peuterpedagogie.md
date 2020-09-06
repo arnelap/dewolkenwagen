@@ -1,10 +1,12 @@
 ---
 title: Peuterpedagogie
-date: 
+date: null
 draft: false
-subtitle: Het jonge kind voelt zich geborgen als het zich gezien en begrepen voelt.
+subtitle: Peuterpedagogie vanuit antroposofische visie
 ---
-Dat is heel in het kort het uitgangspunt van onze pedagogie. Peuters staan open in de wereld, ze begrijpen nog niet alles maar dat neemt niet weg dat ze veel meebeleven. Ook hebben zij een natuurlijke behoefte aan nabootsen en spelen. Peuters staan nabootsend en spelend in het leven. Het is hun manier van leren.  
+**Het jonge kind voelt zich geborgen als het zich gezien en begrepen voelt.**
+
+Dat is heel in het kort het uitgangspunt van onze pedagogie. Peuters staan open in de wereld, ze begrijpen nog niet alles maar dat neemt niet weg dat ze veel meebeleven. Ook hebben zij een natuurlijke behoefte aan nabootsen en spelen. Peuters staan nabootsend en spelend in het leven. Het is hun manier van leren. Als pedagogen en opvoeders doen we er goed aan om als we hen verder willen brengen in hun ontwikkeling en opvoeding aan te sluiten bij deze bijzondere leervermogens.
 
 ![Peuterpedagogie](img/5_in_huisjeshoek-001.jpg "Peuterpedagogie")
 
