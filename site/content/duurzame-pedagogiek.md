@@ -17,6 +17,6 @@ Voor De Wolkenwagen betekent duurzame pedagogiek o.a. dat we o.a. de volgende ke
 * Speelgoed van natuurlijke materialen 
 * Ecologische schoonmaakmiddelen
 
-  *Deze keuzes zorgen voor kwaliteit in onze kinderopvang.*
+  Deze keuzes zorgen voor kwaliteit in onze kinderopvang.
 
 ![](img/9_f_appeloogst.jpg)
