@@ -6,7 +6,7 @@ subtitle: Peuterpedagogie vanuit antroposofische visie
 ---
 **Het jonge kind voelt zich geborgen als het zich gezien en begrepen voelt.**
 
-Dat is heel in het kort het uitgangspunt van onze pedagogie. Peuters staan open in de wereld, ze begrijpen nog niet alles maar dat neemt niet weg dat ze veel meebeleven. Ook hebben zij een natuurlijke behoefte aan nabootsen en spelen. Peuters staan nabootsend en spelend in het leven. Het is hun manier van leren. Als pedagogen en opvoeders doen we er goed aan om, als we hen verder willen brengen in hun ontwikkeling, de opvoeding aan te sluiten bij deze bijzondere leervermogens.
+Dat is heel in het kort het uitgangspunt van onze pedagogie. Peuters staan open in de wereld, ze begrijpen nog niet alles maar dat neemt niet weg dat ze veel meebeleven. Ook hebben zij een natuurlijke behoefte aan nabootsen en spelen. Peuters staan nabootsend en spelend in het leven. Het is hun manier van leren. Als pedagogen en opvoeders doen we er goed aan om, als we hen verder willen brengen in hun ontwikkeling, aan te sluiten bij deze bijzondere leervermogens.
 
 ![Peuterpedagogie](img/5_in_huisjeshoek-001.jpg "Peuterpedagogie")
 
@@ -24,13 +24,13 @@ De Wolkenwagen is een kleinschalige opvang voor peuters. De leidster-kind ratio 
 
 ![](img/6-meehelpen-tuinieren-klein.jpg)
 
-Kleine kinderen hebben een natuurlijke behoefte om alles na te doen en mee te beleven. Daarom vinden we het belangrijk om de peuters het goede voorbeeld te geven. We richten onze ‘grote mensen bezigheden’ zo in dat de peuters mee kunnen helpen: met de afwas, vegen, sap inschenken ,tafel dekken, tuinieren  en dergelijke. Zodat het kleine kind kan ervaren; “kijk, dit kan ik al!”
+Kleine kinderen hebben een natuurlijke behoefte om alles na te doen en mee te beleven. Daarom vinden we het belangrijk om de peuters het goede voorbeeld te geven. We richten onze ‘grote mensen bezigheden’ zo in dat de peuters mee kunnen helpen: met de afwas, vegen, sap inschenken, tafel dekken, bladeren harken in de tuin en dergelijke. Zodat het kleine kind kan ervaren; “Kijk, dit kan ik al!”
 
-**Dagritme**
+**Dagritme met liedjesrepertoire en Fienepien**
 
 ![](img/dagritme.jpg)
 
-Op de Wolkenwagen hanteren we een dagprogramma met vaste tijden voor spelen, eten, binnen-en buitenspel. Dat geeft een gevoel van veiligheid. Fienepien, een vertrouwd poppenvriendje, vertelt de peuters met behulp van foto's hoe de dag eruit ziet.
+Op de Wolkenwagen hanteren we een dagprogramma met vaste tijden voor spelen, eten, binnen-en buitenspel. Dat geeft een gevoel van veiligheid. Fienepien, een vertrouwd poppenvriendje, vertelt de peuters met behulp van dagritmefoto's hoe de dag eruit ziet. Ook zingen we door de dag heen vast repertoire. Liedjes kondigen de overgang aan naar de volgende activiteit. Zo hebben we liedjes voor het eten; waterverven, opruimen, handjes wassen; in de kring gaan; schoentjes aandoen, wandelen, broodbakken, afwassen etc.etc.
 
 **Samen leven, samen spelen**
 
@@ -44,7 +44,7 @@ Veel ouders die hun kind naar de Wolkenwagen brengen vinden het belangrijk dat h
 
 ![](img/7_samen_eten_aan_tafel.jpg)
 
-De Wolkenwagen is gehuisvest in een voormalige houten woning. Voor peuters een knus onderkomen. Binnen is het zo ingericht dat er veel mag en veel kan. De grote kamers  bieden ruimte voor gevarieerd spel. De tafels zijn laag, op kinderhoogte. En ieder heeft zijn eigen stoeltje. De kinderen kunnen zelf beslissen of ze aan tafel willen zitten of niet. En omdat het eten een vreugdevolle bezigheid is blijven ze allemaal gezellig aan tafel, zo klein als ze zijn, heel knap eigenlijk! Op de Wolkenwagen hoeven de peuters zich nog niet aan te passen aan de grote mensenwereld. Alles is naar hun behoefte, tempo en formaat ingericht. 
+De Wolkenwagen is gehuisvest in een voormalige houten woning. Voor peuters een knus onderkomen. Binnen is het zo ingericht dat er veel mag en veel kan. De grote kamers  bieden ruimte voor gevarieerd spel. De tafels zijn laag, op kinderhoogte. En ieder heeft zijn eigen stoeltje. De kinderen kunnen zelf beslissen of ze aan tafel willen zitten of niet. En omdat het eten lekker is en een vreugdevolle bezigheid blijven ze allemaal gezellig aan tafel, zo klein als ze zijn, heel knap eigenlijk! Op de Wolkenwagen hoeven de peuters zich nog niet aan te passen aan de grote mensenwereld. Alles is naar hun behoefte, tempo en formaat ingericht. 
 
 **Natuurlijke materialen**
 
