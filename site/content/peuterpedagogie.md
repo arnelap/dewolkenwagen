@@ -28,7 +28,7 @@ Kleine kinderen hebben een natuurlijke behoefte om alles na te doen en mee te be
 
 ![](img/dagritme.jpg)
 
-Op de Wolkenwagen hanteren we een dagprogramma met vaste tijden voor spelen, eten, binnen-en buitenspel. Terugkerende activiteiten geven een gevoel van herkenning en vertrouwdheid. Peuters op de Wolkenwagen voelen zich zo snel vertrouwd. Fienepien, een vertrouwd poppenvriendje, vertelt de peuters met behulp van dagritmefoto's hoe de dag eruit ziet. Ook zingen we door de dag heen. Liedjes kondigen de overgang aan naar de volgende activiteit. Zo hebben we liedjes voor het alle dagelijks terugkerende bezigheden als eten; waterverven, opruimen, handjes wassen; broodjes bakken, muziek maken in de kring; schoentjes aandoen, wandelen, een afwasje doen etc.etc.
+Op de Wolkenwagen hanteren we een dagprogramma met vaste tijden voor spelen, eten, binnen-en buitenspel. Terugkerende activiteiten geven een gevoel van herkenning. Peuters op de Wolkenwagen voelen zich zo snel vertrouwd. Fienepien, een poppenvriendje, vertelt de peuters met behulp van dagritmefoto's hoe de dag eruit ziet. Ook zingen we door de dag heen over wat we doen. Liedjes kondigen de overgang aan naar de volgende activiteit. Zo hebben we liedjes voor het alle dagelijks terugkerende bezigheden als eten; waterverven, opruimen, handjes wassen; broodjes bakken, kringspelen; jasjes aandoen, wandelen, een afwasje doen etc.etc.
 
 **Samen leven, samen spelen**
 
