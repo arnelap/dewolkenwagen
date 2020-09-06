@@ -1,5 +1,5 @@
 ---
-title: Zoekt u een peuterspeelzaal of kinderopvang voor uw kind?
+title: Zoekt u een peuterspeelzaal of kinderopvang in Driebergen?
 subtitle: "De Wolkenwagen biedt beide. Bij kinderopvang de Wolkenwagen speelt uw
   kind op het mooiste plekje van Driebergen: het landgoed Kraaybeek midden in
   het dorp. Uw peuter kan bij ons terecht vanaf twee jaar tot 4 jaar. Wij bieden
