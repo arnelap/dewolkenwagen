@@ -1,6 +1,6 @@
 ---
 title: Reviews van ouders
-date: 
+date: null
 draft: false
 subtitle: >-
   Wij waren meteen vanaf de eerste week van onze zoon op de Wolkenwagen onder de
@@ -19,15 +19,11 @@ De Wolkenwagen is een fijne, warme plek in de natuur waar de leidsters echt oog 
 
 **Marleen en Arthur, Driebergen**
 
-\----
-
 It is very sad for me and our son Vincent to leave, especially the outstanding dedication and care will be a big loss for us. From the beginning I had the impression childcare the Wolkenwagen was a little paradise for kids and it was true. I really would like to thank you for your commitment and attention.
 
 Kind regards
 
 **Natalia Grun**
-
-\----
 
 Ik ervaar de Wolkenwagen als een hele bijzondere plek. Voor Nickita en mij echt een plezier om naartoe te gaan. De aandacht en ruimte die jullie voor elk kind hebben en hoe natuurlijk en echt dat is en gaat vind ik ontroerend. ... De rust en duidelijkheid en liefde word echt door de kinderen ervaren. Ik ben echt heel bij dat Nickita bij jullie heeft kunnen zijn, om te spelen, mee te doen, vriendjes te maken en zulke lieve juffen te hebben gehad.
 
