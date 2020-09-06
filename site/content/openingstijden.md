@@ -23,4 +23,4 @@ U kunt kiezen voor speelochtenden, dagopvang tot 15.30 uur en ook voor hele dag 
 
 \*Bij de hele dagopvang eten we met de kinderen om 16.30 uur een warme maaltijd.
 
-**Bekijk de [Agenda](/agenda) voor vakantiedagen en speciale gelegenheden.**
+**Bekijk de [Agenda](/agenda) voor vakantiedagen en bijzondere activiteiten..**
