@@ -34,7 +34,7 @@ agenda:
       Zaterdag 20 juni smiddags van 15.00-17.00 uur
 
 
-      **Helaas kan het zomerfeest met peuters, ouders, broertjes en zusjes geen doorgang vinden vanwege de vereiste onderlinge 1,5 m. afstand. Dat achten we niet haalbaar op zo’n feest. We vieren het zomerfeest met de kinderenelke dag van deze week in klein verband. We trekken erop uit met de bolderkar, gaan picknicken, lekkere dingen plukken in de tuin van Kraaybeekerhof, en zingen en dansen met gitaarmuziek.**
+      **Helaas kan het zomerfeest met peuters, ouders, broertjes en zusjes geen doorgang vinden vanwege de vereiste onderlinge 1,5 m. afstand. Dat achten we niet haalbaar op zo’n feest. We vieren het zomerfeest met de kinderen elke dag van deze week in klein verband. We trekken erop uit met de bolderkar, gaan picknicken, lekkere dingen plukken in de tuin van Kraaybeekerhof, en zingen en dansen met gitaarmuziek.**
     afgelast: true
   - omschrijving: Themaweken Oogst
     datum: Week 38 en 39
