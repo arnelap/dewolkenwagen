@@ -22,7 +22,9 @@ subtitle: "Bij het naar bed brengen van Barend, de afgelopen twee jaar:
 
   \ "
 ---
-*Afgelopen 4 jaar* hebben onze zoon en dochter een heerlijke tijd gehad bij kinderopvang de Wolkenwagen. De huiselijke sfeer en lieve juffies zorgden ervoor dat onze kinderen zich al snel thuis voelden. Op een liefdevolle manier is er aandacht voor ieder individu en wordt er goed gekeken naar wat de kinderen nodig hebben. er is veel ruimte voor creativiteit en zang waar onze kinderen erg van hebben genoten. De vaste rituelen en vieringen zoals het broodje kneden in de ochtend, de Sint- Maarten optocht en Palmpasen zijn zowel voor de ouders als de kinderen 1 groot feest! Ook de prachtige tuin en ligging aan het mooie landgoed Kraaybeek draagt bij aan veel speelplezier in de natuur. We kunnen de Wolkenwagen van harte aanbevelen en hadden ons geen betere plek kunnen wensen voor onze kinderen.
+*Geen betere plek*
+
+Afgelopen 4 jaar hebben onze zoon en dochter een heerlijke tijd gehad bij kinderopvang de Wolkenwagen. De huiselijke sfeer en lieve juffies zorgden ervoor dat onze kinderen zich al snel thuis voelden. Op een liefdevolle manier is er aandacht voor ieder individu en wordt er goed gekeken naar wat de kinderen nodig hebben. Er is veel ruimte voor creativiteit en zang waar onze kinderen erg van hebben genoten. De vaste rituelen en vieringen zoals het broodje kneden in de ochtend, de Sint- Maarten optocht en Palmpasen zijn zowel voor de ouders als de kinderen 1 groot feest! Ook de prachtige tuin en ligging aan het mooie landgoed Kraaybeek draagt bij aan veel speelplezier in de natuur. We kunnen de Wolkenwagen van harte aanbevelen en hadden ons geen betere plek kunnen wensen voor onze kinderen.
 
 Frank en Liesbeth Leusink, juli 2020
 
