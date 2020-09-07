@@ -1,14 +1,38 @@
 {{ define "main" }}
 
-  <div class="row">
-    <h1>{{.Title}}</h1>
-    <div>
-      <p>{{ .Date.Format "Mon, 2 Jan 2006" }} - <i>Leestijd {{ .ReadingTime }} minuten</i></p>
+
+<div class="row flex">
+  <main class="content">
+    <h1>{{ .Params.Title }}</h1>
+    <h2>{{ replace .Params.Subtitle "\n" "<br/>" | safeHTML }}</h2>
+    {{ .Content }}
+    {{ if isset .Params "youtube" }}
+    <div class="youtube">
+      <iframe width="560" height="315" src="" data-src="{{.Params.youtube}}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <script type="text/javascript">
+        function init() {
+          var vidDefer = document.getElementsByTagName('iframe');
+          for (var i=0; i<vidDefer.length; i++) {
+            if(vidDefer[i].getAttribute('data-src')) {
+              vidDefer[i].setAttribute('src',vidDefer[i].getAttribute('data-src'));
+            } } }
+            //load Youtube after 2 seconds
+            window.onload = window.setTimeout(init,2000);
+      </script>
     </div>
-    <div>
-      <p>{{ .Description }}</p>
-      {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}
-      {{ .Content }}
-    </div>
-  </div>
+    {{ end }}
+  </main>
+<aside id="sidebar">
+<h2>Actueel</h2>
+<a href="/agenda">Agenda</a>
+{{ range first 3 (where .Site.RegularPages "Section" "post") }}
+            {{ .Render "li"}}
+{{ end }}
+{{ if gt (where .Site.RegularPages "Section" "==" "post") 2 }}
+<p><a href="/post" class="more-posts">Meer nieuws lezen</a></p>
+{{ end }}
+</aside>
+</div>
+
+
 {{ end }}
