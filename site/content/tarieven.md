@@ -18,7 +18,7 @@ U kunt uw kind brengen tussen 8.00-9.00 uur. Tot 9.00 uur mogen alle peuters hun
 **Ophalen tussen 12.15 en 12.30 uur**\
 Bruto maandbedrag: €167,34 voor 1 ochtend per week  
 
-### Korte dag  
+### Korte dag
 
 **Ophalen tussen 15.00-15.30 uur**\
 Bruto maandbedrag: €278,91 voor 1 lange dag per week      
@@ -26,7 +26,7 @@ Bruto maandbedrag: €278,91 voor 1 lange dag per week
 ### Hele dag
 
 **Ophalen tussen 17.30 en 18.00 uur.**\
-Bruto maandbedrag: 371,87 voor 1 hele dag per week , 
+Bruto maandbedrag: 393,05 voor 1 hele dag per week , 
 
 Dit is exclusief €3,85 voor de volwaardige biologische warme maaltijd die we om 16.30 uur met de peuters genieten.  \
  .
