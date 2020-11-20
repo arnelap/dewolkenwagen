@@ -28,7 +28,7 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Title, name: title, widget: string}
           - {label: Subtitle, name: subtitle, widget: text, required: false}
           - {label: "Body", name: "body", widget: "markdown"}     
-          - {label: "Slides", name: slides, widget: list, fields: [
+          - {label: "Images", name: images, widget: list, fields: [
               {label: "Image", name: "image", widget: "image"}]}
           - {label: Youtube, name: youtube, widget: string}
       - file: "site/content/peuterpedagogie.md"
@@ -89,9 +89,9 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Title, name: title, widget: string}
           - {label: Subtitle, name: subtitle, widget: text, required: false}
           - {label: "Body", name: "body", widget: "markdown"}
-      - file: "site/content/vve-subsidie.md"
-        label: "VVE subsidie"
-        name: "vve-subsidie"
+      - file: "site/content/subsidie-gemeente.md"
+        label: "Subsidie Gemeente"
+        name: "subsidie-gemeente"
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Subtitle, name: subtitle, widget: text, required: false}
@@ -118,7 +118,7 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Subtitle, name: subtitle, widget: text, required: false}
           - {label: "Body", name: "body", widget: "markdown"}
       - file: "site/content/bedankt.md"
-        label: "Bednkt voor uw bericht"
+        label: "Bedankt voor uw bericht"
         name: "bedankt"
         fields:
           - {label: Title, name: title, widget: string}
@@ -139,7 +139,7 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Subtitle, name: subtitle, widget: text, required: false}
           - {label: "Body", name: "body", widget: "markdown"}
   - name: "post" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "Post" # Used in the UI, ie.: "New Post"
+    label: "Actueel" # Used in the UI, ie.: "New Post"
     preview_path: blog/{{title}}
     folder: "site/content/post" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection

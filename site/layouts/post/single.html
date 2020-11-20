@@ -6,21 +6,6 @@
     <h1>{{ .Params.Title }}</h1>
     <h2>{{ replace .Params.Subtitle "\n" "<br/>" | safeHTML }}</h2>
     {{ .Content }}
-    {{ if isset .Params "youtube" }}
-    <div class="youtube">
-      <iframe width="560" height="315" src="" data-src="{{.Params.youtube}}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-      <script type="text/javascript">
-        function init() {
-          var vidDefer = document.getElementsByTagName('iframe');
-          for (var i=0; i<vidDefer.length; i++) {
-            if(vidDefer[i].getAttribute('data-src')) {
-              vidDefer[i].setAttribute('src',vidDefer[i].getAttribute('data-src'));
-            } } }
-            //load Youtube after 2 seconds
-            window.onload = window.setTimeout(init,2000);
-      </script>
-    </div>
-    {{ end }}
   </main>
 <aside id="sidebar">
 <h2>Actueel</h2>
