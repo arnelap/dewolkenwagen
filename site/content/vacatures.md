@@ -5,7 +5,7 @@ draft: false
 subtitle: Het gezellige houten huis van Kinderopvang de Wolkenwagen ligt midden
   in de natuur van het oude landgoed en centraal gelegen in Driebergen.
 ---
-Per 1 november of z.s.m. is de Wolkenwagen op zoek naar een
+Per 1 november of z.s.m. is  de Wolkenwagen op zoek naar een
 
 ## **enthousiaste en zorgzame pedagogisch medewerker voor onze peutergroep.**
 
@@ -37,7 +37,7 @@ Wij bieden o.a:
 * Uitzicht op een jaarcontract
 * Regelmatige werktijden, vaste groepen
 
-Sluitingsdatum van deze vacature; 15 oktober 2020
+Sluitingsdatum van deze vacature; 1 oktober 2020
 
 Sollicitaties kun je mailen naar Joke van der Meij (directeur), [info@dewolkenwagen.nl](mailto:info@dewolkenwagen.nl)
 
